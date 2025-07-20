@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1001,
+    "ingredients": [
+      "beans",
+      "celery",
+      "butter",
+      "pepper",
+      "broccoli"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take beans and celery, cook with butter. Add pepper and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1002,
+    "ingredients": [
+      "eggs",
+      "broccoli",
+      "baking powder",
+      "onions",
+      "celery"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take eggs and broccoli, cook with baking powder. Add onions and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1003,
+    "ingredients": [
+      "milk",
+      "vanilla extract",
+      "broccoli",
+      "salt",
+      "chicken"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take milk and vanilla extract, cook with broccoli. Add salt and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1004,
+    "ingredients": [
+      "flour",
+      "yogurt",
+      "milk",
+      "broccoli",
+      "pasta"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take flour and yogurt, cook with milk. Add broccoli and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1005,
+    "ingredients": [
+      "cinnamon",
+      "beef",
+      "eggs",
+      "cheese",
+      "baking powder"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take cinnamon and beef, cook with eggs. Add cheese and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1006,
+    "ingredients": [
+      "olive oil",
+      "cinnamon",
+      "yogurt",
+      "beans",
+      "corn"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take olive oil and cinnamon, cook with yogurt. Add beans and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1007,
+    "ingredients": [
+      "tomatoes",
+      "spinach",
+      "lemon",
+      "salt",
+      "beef"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take tomatoes and spinach, cook with lemon. Add salt and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1008,
+    "ingredients": [
+      "chicken",
+      "garlic",
+      "milk",
+      "corn",
+      "vanilla extract"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take chicken and garlic, cook with milk. Add corn and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1009,
+    "ingredients": [
+      "cheese",
+      "flour",
+      "onions",
+      "olive oil",
+      "lemon"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take cheese and flour, cook with onions. Add olive oil and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1010,
+    "ingredients": [
+      "spinach",
+      "baking powder",
+      "chicken",
+      "lemon",
+      "flour"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take spinach and baking powder, cook with chicken. Add lemon and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1011,
+    "ingredients": [
+      "corn",
+      "spinach",
+      "cheese",
+      "milk",
+      "vanilla extract"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take corn and spinach, cook with cheese. Add milk and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1012,
+    "ingredients": [
+      "baking powder",
+      "eggs",
+      "milk",
+      "cinnamon",
+      "spinach"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take baking powder and eggs, cook with milk. Add cinnamon and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1013,
+    "ingredients": [
+      "garlic",
+      "olive oil",
+      "eggs",
+      "onions",
+      "corn"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take garlic and olive oil, cook with eggs. Add onions and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1014,
+    "ingredients": [
+      "beans",
+      "onions",
+      "eggs",
+      "yogurt",
+      "chicken"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take beans and onions, cook with eggs. Add yogurt and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1015,
+    "ingredients": [
+      "tomatoes",
+      "chicken",
+      "lemon",
+      "butter",
+      "broccoli"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take tomatoes and chicken, cook with lemon. Add butter and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1016,
+    "ingredients": [
+      "lemon",
+      "chicken",
+      "beans",
+      "pepper",
+      "rice"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take lemon and chicken, cook with beans. Add pepper and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1017,
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "flour",
+      "cheese",
+      "spinach"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take chicken and yogurt, cook with flour. Add cheese and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1018,
+    "ingredients": [
+      "vanilla extract",
+      "baking powder",
+      "milk",
+      "yogurt",
+      "cinnamon"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take vanilla extract and baking powder, cook with milk. Add yogurt and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1019,
+    "ingredients": [
+      "chicken",
+      "pasta",
+      "tomatoes",
+      "beans",
+      "cheese"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take chicken and pasta, cook with tomatoes. Add beans and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1020,
+    "ingredients": [
+      "chicken",
+      "rice",
+      "butter",
+      "celery",
+      "vanilla extract"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take chicken and rice, cook with butter. Add celery and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1021,
+    "ingredients": [
+      "yogurt",
+      "beans",
+      "pasta",
+      "flour",
+      "tomatoes"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take yogurt and beans, cook with pasta. Add flour and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1022,
+    "ingredients": [
+      "cinnamon",
+      "salt",
+      "flour",
+      "garlic",
+      "eggs"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take cinnamon and salt, cook with flour. Add garlic and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1023,
+    "ingredients": [
+      "rice",
+      "broccoli",
+      "spinach",
+      "garlic",
+      "olive oil"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take rice and broccoli, cook with spinach. Add garlic and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1024,
+    "ingredients": [
+      "milk",
+      "beans",
+      "flour",
+      "pasta",
+      "eggs"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take milk and beans, cook with flour. Add pasta and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1025,
+    "ingredients": [
+      "sugar",
+      "pasta",
+      "yogurt",
+      "vanilla extract",
+      "flour"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take sugar and pasta, cook with yogurt. Add vanilla extract and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1026,
+    "ingredients": [
+      "garlic",
+      "onions",
+      "spinach",
+      "pepper",
+      "lemon"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take garlic and onions, cook with spinach. Add pepper and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1027,
+    "ingredients": [
+      "celery",
+      "pasta",
+      "chicken",
+      "eggs",
+      "vanilla extract"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take celery and pasta, cook with chicken. Add eggs and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1028,
+    "ingredients": [
+      "tomatoes",
+      "milk",
+      "pasta",
+      "rice",
+      "garlic"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take tomatoes and milk, cook with pasta. Add rice and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1029,
+    "ingredients": [
+      "beans",
+      "pepper",
+      "onions",
+      "sugar",
+      "butter"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take beans and pepper, cook with onions. Add sugar and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1030,
+    "ingredients": [
+      "beans",
+      "pasta",
+      "celery",
+      "rice",
+      "spinach"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take beans and pasta, cook with celery. Add rice and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1031,
+    "ingredients": [
+      "pasta",
+      "yogurt",
+      "rice",
+      "spinach",
+      "butter"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take pasta and yogurt, cook with rice. Add spinach and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1032,
+    "ingredients": [
+      "garlic",
+      "pasta",
+      "yogurt",
+      "milk",
+      "broccoli"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take garlic and pasta, cook with yogurt. Add milk and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1033,
+    "ingredients": [
+      "garlic",
+      "chicken",
+      "rice",
+      "cheese",
+      "beans"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take garlic and chicken, cook with rice. Add cheese and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1034,
+    "ingredients": [
+      "sugar",
+      "baking powder",
+      "rice",
+      "eggs",
+      "flour"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take sugar and baking powder, cook with rice. Add eggs and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1035,
+    "ingredients": [
+      "salt",
+      "rice",
+      "lemon",
+      "tomatoes",
+      "celery"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take salt and rice, cook with lemon. Add tomatoes and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1036,
+    "ingredients": [
+      "sugar",
+      "pepper",
+      "onions",
+      "beef",
+      "rice"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take sugar and pepper, cook with onions. Add beef and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1037,
+    "ingredients": [
+      "baking powder",
+      "celery",
+      "garlic",
+      "beef",
+      "milk"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take baking powder and celery, cook with garlic. Add beef and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1038,
+    "ingredients": [
+      "rice",
+      "tomatoes",
+      "olive oil",
+      "flour",
+      "beef"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take rice and tomatoes, cook with olive oil. Add flour and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1039,
+    "ingredients": [
+      "tomatoes",
+      "baking powder",
+      "cinnamon",
+      "chicken",
+      "beef"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take tomatoes and baking powder, cook with cinnamon. Add chicken and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1040,
+    "ingredients": [
+      "garlic",
+      "spinach",
+      "yogurt",
+      "salt",
+      "lemon"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take garlic and spinach, cook with yogurt. Add salt and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1041,
+    "ingredients": [
+      "chicken",
+      "cinnamon",
+      "cheese",
+      "beans",
+      "spinach"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take chicken and cinnamon, cook with cheese. Add beans and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1042,
+    "ingredients": [
+      "butter",
+      "spinach",
+      "yogurt",
+      "corn",
+      "chicken"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take butter and spinach, cook with yogurt. Add corn and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1043,
+    "ingredients": [
+      "rice",
+      "milk",
+      "cheese",
+      "beans",
+      "lemon"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take rice and milk, cook with cheese. Add beans and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1044,
+    "ingredients": [
+      "milk",
+      "lemon",
+      "garlic",
+      "yogurt",
+      "butter"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take milk and lemon, cook with garlic. Add yogurt and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1045,
+    "ingredients": [
+      "rice",
+      "corn",
+      "onions",
+      "tomatoes",
+      "pasta"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take rice and corn, cook with onions. Add tomatoes and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1046,
+    "ingredients": [
+      "pasta",
+      "corn",
+      "salt",
+      "butter",
+      "spinach"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take pasta and corn, cook with salt. Add butter and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1047,
+    "ingredients": [
+      "baking powder",
+      "celery",
+      "corn",
+      "beef",
+      "garlic"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take baking powder and celery, cook with corn. Add beef and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1048,
+    "ingredients": [
+      "corn",
+      "spinach",
+      "broccoli",
+      "garlic",
+      "cinnamon"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take corn and spinach, cook with broccoli. Add garlic and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1049,
+    "ingredients": [
+      "spinach",
+      "lemon",
+      "vanilla extract",
+      "chicken",
+      "broccoli"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take spinach and lemon, cook with vanilla extract. Add chicken and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1050,
+    "ingredients": [
+      "salt",
+      "chicken",
+      "olive oil",
+      "celery",
+      "yogurt"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take salt and chicken, cook with olive oil. Add celery and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1051,
+    "ingredients": [
+      "cinnamon",
+      "celery",
+      "onions",
+      "vanilla extract",
+      "flour"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take cinnamon and celery, cook with onions. Add vanilla extract and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1052,
+    "ingredients": [
+      "beef",
+      "pasta",
+      "butter",
+      "broccoli",
+      "salt"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take beef and pasta, cook with butter. Add broccoli and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1053,
+    "ingredients": [
+      "spinach",
+      "yogurt",
+      "garlic",
+      "flour",
+      "beef"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take spinach and yogurt, cook with garlic. Add flour and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1054,
+    "ingredients": [
+      "celery",
+      "garlic",
+      "cinnamon",
+      "salt",
+      "corn"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take celery and garlic, cook with cinnamon. Add salt and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1055,
+    "ingredients": [
+      "chicken",
+      "cinnamon",
+      "salt",
+      "lemon",
+      "corn"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take chicken and cinnamon, cook with salt. Add lemon and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1056,
+    "ingredients": [
+      "milk",
+      "onions",
+      "tomatoes",
+      "beans",
+      "rice"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take milk and onions, cook with tomatoes. Add beans and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1057,
+    "ingredients": [
+      "beans",
+      "butter",
+      "celery",
+      "onions",
+      "olive oil"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take beans and butter, cook with celery. Add onions and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1058,
+    "ingredients": [
+      "milk",
+      "beans",
+      "beef",
+      "tomatoes",
+      "garlic"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take milk and beans, cook with beef. Add tomatoes and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1059,
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "rice",
+      "lemon",
+      "baking powder"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take chicken and yogurt, cook with rice. Add lemon and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1060,
+    "ingredients": [
+      "baking powder",
+      "chicken",
+      "salt",
+      "eggs",
+      "pepper"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take baking powder and chicken, cook with salt. Add eggs and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1061,
+    "ingredients": [
+      "yogurt",
+      "eggs",
+      "olive oil",
+      "salt",
+      "pasta"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take yogurt and eggs, cook with olive oil. Add salt and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1062,
+    "ingredients": [
+      "baking powder",
+      "broccoli",
+      "onions",
+      "flour",
+      "eggs"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take baking powder and broccoli, cook with onions. Add flour and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1063,
+    "ingredients": [
+      "onions",
+      "garlic",
+      "spinach",
+      "lemon",
+      "sugar"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take onions and garlic, cook with spinach. Add lemon and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1064,
+    "ingredients": [
+      "salt",
+      "broccoli",
+      "olive oil",
+      "corn",
+      "beef"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take salt and broccoli, cook with olive oil. Add corn and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1065,
+    "ingredients": [
+      "salt",
+      "rice",
+      "spinach",
+      "garlic",
+      "vanilla extract"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take salt and rice, cook with spinach. Add garlic and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1066,
+    "ingredients": [
+      "rice",
+      "chicken",
+      "olive oil",
+      "pepper",
+      "flour"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take rice and chicken, cook with olive oil. Add pepper and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1067,
+    "ingredients": [
+      "pepper",
+      "spinach",
+      "butter",
+      "cinnamon",
+      "corn"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take pepper and spinach, cook with butter. Add cinnamon and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1068,
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "tomatoes",
+      "onions",
+      "baking powder"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take eggs and cheese, cook with tomatoes. Add onions and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1069,
+    "ingredients": [
+      "flour",
+      "celery",
+      "cheese",
+      "rice",
+      "broccoli"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take flour and celery, cook with cheese. Add rice and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1070,
+    "ingredients": [
+      "flour",
+      "cheese",
+      "eggs",
+      "corn",
+      "salt"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take flour and cheese, cook with eggs. Add corn and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1071,
+    "ingredients": [
+      "garlic",
+      "sugar",
+      "pepper",
+      "cinnamon",
+      "salt"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take garlic and sugar, cook with pepper. Add cinnamon and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1072,
+    "ingredients": [
+      "beef",
+      "beans",
+      "celery",
+      "spinach",
+      "flour"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take beef and beans, cook with celery. Add spinach and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1073,
+    "ingredients": [
+      "spinach",
+      "milk",
+      "cheese",
+      "corn",
+      "cinnamon"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take spinach and milk, cook with cheese. Add corn and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1074,
+    "ingredients": [
+      "onions",
+      "sugar",
+      "celery",
+      "butter",
+      "yogurt"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take onions and sugar, cook with celery. Add butter and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1075,
+    "ingredients": [
+      "sugar",
+      "beef",
+      "cheese",
+      "beans",
+      "garlic"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take sugar and beef, cook with cheese. Add beans and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1076,
+    "ingredients": [
+      "milk",
+      "broccoli",
+      "rice",
+      "celery",
+      "pasta"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take milk and broccoli, cook with rice. Add celery and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1077,
+    "ingredients": [
+      "sugar",
+      "tomatoes",
+      "pepper",
+      "yogurt",
+      "salt"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take sugar and tomatoes, cook with pepper. Add yogurt and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1078,
+    "ingredients": [
+      "yogurt",
+      "garlic",
+      "pasta",
+      "rice",
+      "olive oil"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take yogurt and garlic, cook with pasta. Add rice and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1079,
+    "ingredients": [
+      "beef",
+      "eggs",
+      "spinach",
+      "yogurt",
+      "beans"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take beef and eggs, cook with spinach. Add yogurt and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1080,
+    "ingredients": [
+      "lemon",
+      "broccoli",
+      "pasta",
+      "tomatoes",
+      "onions"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take lemon and broccoli, cook with pasta. Add tomatoes and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1081,
+    "ingredients": [
+      "beef",
+      "yogurt",
+      "cinnamon",
+      "milk",
+      "olive oil"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take beef and yogurt, cook with cinnamon. Add milk and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1082,
+    "ingredients": [
+      "garlic",
+      "sugar",
+      "eggs",
+      "olive oil",
+      "spinach"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take garlic and sugar, cook with eggs. Add olive oil and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1083,
+    "ingredients": [
+      "flour",
+      "cheese",
+      "broccoli",
+      "pepper",
+      "yogurt"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take flour and cheese, cook with broccoli. Add pepper and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1084,
+    "ingredients": [
+      "salt",
+      "lemon",
+      "vanilla extract",
+      "pepper",
+      "spinach"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take salt and lemon, cook with vanilla extract. Add pepper and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1085,
+    "ingredients": [
+      "chicken",
+      "corn",
+      "milk",
+      "yogurt",
+      "beans"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take chicken and corn, cook with milk. Add yogurt and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1086,
+    "ingredients": [
+      "eggs",
+      "sugar",
+      "olive oil",
+      "flour",
+      "milk"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take eggs and sugar, cook with olive oil. Add flour and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1087,
+    "ingredients": [
+      "sugar",
+      "chicken",
+      "vanilla extract",
+      "corn",
+      "beans"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take sugar and chicken, cook with vanilla extract. Add corn and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1088,
+    "ingredients": [
+      "flour",
+      "milk",
+      "onions",
+      "pepper",
+      "salt"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take flour and milk, cook with onions. Add pepper and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1089,
+    "ingredients": [
+      "eggs",
+      "tomatoes",
+      "chicken",
+      "rice",
+      "lemon"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take eggs and tomatoes, cook with chicken. Add rice and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1090,
+    "ingredients": [
+      "sugar",
+      "garlic",
+      "rice",
+      "yogurt",
+      "salt"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take sugar and garlic, cook with rice. Add yogurt and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1091,
+    "ingredients": [
+      "eggs",
+      "sugar",
+      "chicken",
+      "broccoli",
+      "salt"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take eggs and sugar, cook with chicken. Add broccoli and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1092,
+    "ingredients": [
+      "chicken",
+      "corn",
+      "pepper",
+      "flour",
+      "cinnamon"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take chicken and corn, cook with pepper. Add flour and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1093,
+    "ingredients": [
+      "celery",
+      "corn",
+      "beans",
+      "olive oil",
+      "butter"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take celery and corn, cook with beans. Add olive oil and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1094,
+    "ingredients": [
+      "lemon",
+      "yogurt",
+      "chicken",
+      "spinach",
+      "eggs"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take lemon and yogurt, cook with chicken. Add spinach and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1095,
+    "ingredients": [
+      "cinnamon",
+      "eggs",
+      "olive oil",
+      "flour",
+      "baking powder"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take cinnamon and eggs, cook with olive oil. Add flour and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1096,
+    "ingredients": [
+      "salt",
+      "tomatoes",
+      "butter",
+      "pasta",
+      "lemon"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take salt and tomatoes, cook with butter. Add pasta and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1097,
+    "ingredients": [
+      "onions",
+      "celery",
+      "pasta",
+      "chicken",
+      "cinnamon"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take onions and celery, cook with pasta. Add chicken and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1098,
+    "ingredients": [
+      "cinnamon",
+      "olive oil",
+      "pasta",
+      "yogurt",
+      "tomatoes"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take cinnamon and olive oil, cook with pasta. Add yogurt and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1099,
+    "ingredients": [
+      "spinach",
+      "olive oil",
+      "butter",
+      "milk",
+      "rice"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take spinach and olive oil, cook with butter. Add milk and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1100,
+    "ingredients": [
+      "lemon",
+      "corn",
+      "beans",
+      "olive oil",
+      "celery"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take lemon and corn, cook with beans. Add olive oil and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1101,
+    "ingredients": [
+      "flour",
+      "chicken",
+      "rice",
+      "cheese",
+      "yogurt"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take flour and chicken, cook with rice. Add cheese and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1102,
+    "ingredients": [
+      "yogurt",
+      "pasta",
+      "cheese",
+      "eggs",
+      "lemon"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take yogurt and pasta, cook with cheese. Add eggs and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1103,
+    "ingredients": [
+      "pasta",
+      "flour",
+      "salt",
+      "beef",
+      "vanilla extract"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take pasta and flour, cook with salt. Add beef and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1104,
+    "ingredients": [
+      "beans",
+      "olive oil",
+      "baking powder",
+      "cheese",
+      "broccoli"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take beans and olive oil, cook with baking powder. Add cheese and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1105,
+    "ingredients": [
+      "flour",
+      "butter",
+      "sugar",
+      "cinnamon",
+      "baking powder"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take flour and butter, cook with sugar. Add cinnamon and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1106,
+    "ingredients": [
+      "baking powder",
+      "pepper",
+      "cinnamon",
+      "chicken",
+      "olive oil"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take baking powder and pepper, cook with cinnamon. Add chicken and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1107,
+    "ingredients": [
+      "flour",
+      "butter",
+      "lemon",
+      "baking powder",
+      "vanilla extract"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take flour and butter, cook with lemon. Add baking powder and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1108,
+    "ingredients": [
+      "milk",
+      "garlic",
+      "baking powder",
+      "corn",
+      "chicken"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take milk and garlic, cook with baking powder. Add corn and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1109,
+    "ingredients": [
+      "broccoli",
+      "butter",
+      "lemon",
+      "cheese",
+      "olive oil"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take broccoli and butter, cook with lemon. Add cheese and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1110,
+    "ingredients": [
+      "onions",
+      "celery",
+      "vanilla extract",
+      "pepper",
+      "baking powder"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take onions and celery, cook with vanilla extract. Add pepper and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1111,
+    "ingredients": [
+      "corn",
+      "baking powder",
+      "eggs",
+      "broccoli",
+      "lemon"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take corn and baking powder, cook with eggs. Add broccoli and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1112,
+    "ingredients": [
+      "baking powder",
+      "flour",
+      "lemon",
+      "corn",
+      "cheese"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take baking powder and flour, cook with lemon. Add corn and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1113,
+    "ingredients": [
+      "butter",
+      "chicken",
+      "tomatoes",
+      "eggs",
+      "spinach"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take butter and chicken, cook with tomatoes. Add eggs and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1114,
+    "ingredients": [
+      "sugar",
+      "chicken",
+      "onions",
+      "pepper",
+      "yogurt"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take sugar and chicken, cook with onions. Add pepper and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1115,
+    "ingredients": [
+      "milk",
+      "salt",
+      "rice",
+      "onions",
+      "beef"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take milk and salt, cook with rice. Add onions and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1116,
+    "ingredients": [
+      "yogurt",
+      "broccoli",
+      "garlic",
+      "spinach",
+      "olive oil"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take yogurt and broccoli, cook with garlic. Add spinach and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1117,
+    "ingredients": [
+      "corn",
+      "sugar",
+      "lemon",
+      "flour",
+      "eggs"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take corn and sugar, cook with lemon. Add flour and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1118,
+    "ingredients": [
+      "flour",
+      "vanilla extract",
+      "corn",
+      "celery",
+      "rice"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take flour and vanilla extract, cook with corn. Add celery and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1119,
+    "ingredients": [
+      "lemon",
+      "salt",
+      "spinach",
+      "pasta",
+      "beef"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take lemon and salt, cook with spinach. Add pasta and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1120,
+    "ingredients": [
+      "vanilla extract",
+      "celery",
+      "salt",
+      "milk",
+      "cinnamon"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take vanilla extract and celery, cook with salt. Add milk and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1121,
+    "ingredients": [
+      "eggs",
+      "onions",
+      "beans",
+      "flour",
+      "salt"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take eggs and onions, cook with beans. Add flour and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1122,
+    "ingredients": [
+      "corn",
+      "garlic",
+      "onions",
+      "salt",
+      "beef"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take corn and garlic, cook with onions. Add salt and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1123,
+    "ingredients": [
+      "celery",
+      "vanilla extract",
+      "butter",
+      "beef",
+      "milk"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take celery and vanilla extract, cook with butter. Add beef and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1124,
+    "ingredients": [
+      "tomatoes",
+      "cheese",
+      "beans",
+      "chicken",
+      "olive oil"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take tomatoes and cheese, cook with beans. Add chicken and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1125,
+    "ingredients": [
+      "pasta",
+      "eggs",
+      "broccoli",
+      "cinnamon",
+      "celery"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take pasta and eggs, cook with broccoli. Add cinnamon and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1126,
+    "ingredients": [
+      "beans",
+      "broccoli",
+      "eggs",
+      "celery",
+      "cinnamon"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take beans and broccoli, cook with eggs. Add celery and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1127,
+    "ingredients": [
+      "cinnamon",
+      "sugar",
+      "butter",
+      "tomatoes",
+      "pasta"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take cinnamon and sugar, cook with butter. Add tomatoes and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1128,
+    "ingredients": [
+      "baking powder",
+      "rice",
+      "lemon",
+      "flour",
+      "corn"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take baking powder and rice, cook with lemon. Add flour and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1129,
+    "ingredients": [
+      "broccoli",
+      "spinach",
+      "beef",
+      "tomatoes",
+      "olive oil"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take broccoli and spinach, cook with beef. Add tomatoes and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1130,
+    "ingredients": [
+      "baking powder",
+      "broccoli",
+      "sugar",
+      "corn",
+      "celery"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take baking powder and broccoli, cook with sugar. Add corn and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1131,
+    "ingredients": [
+      "butter",
+      "cheese",
+      "beef",
+      "yogurt",
+      "eggs"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take butter and cheese, cook with beef. Add yogurt and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1132,
+    "ingredients": [
+      "butter",
+      "salt",
+      "vanilla extract",
+      "beef",
+      "milk"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take butter and salt, cook with vanilla extract. Add beef and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1133,
+    "ingredients": [
+      "cinnamon",
+      "broccoli",
+      "lemon",
+      "eggs",
+      "corn"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take cinnamon and broccoli, cook with lemon. Add eggs and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1134,
+    "ingredients": [
+      "broccoli",
+      "beef",
+      "eggs",
+      "vanilla extract",
+      "cinnamon"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take broccoli and beef, cook with eggs. Add vanilla extract and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1135,
+    "ingredients": [
+      "onions",
+      "pepper",
+      "beans",
+      "cinnamon",
+      "spinach"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take onions and pepper, cook with beans. Add cinnamon and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1136,
+    "ingredients": [
+      "beef",
+      "salt",
+      "beans",
+      "olive oil",
+      "onions"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take beef and salt, cook with beans. Add olive oil and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1137,
+    "ingredients": [
+      "beef",
+      "celery",
+      "garlic",
+      "onions",
+      "cinnamon"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take beef and celery, cook with garlic. Add onions and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1138,
+    "ingredients": [
+      "lemon",
+      "onions",
+      "baking powder",
+      "butter",
+      "sugar"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take lemon and onions, cook with baking powder. Add butter and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1139,
+    "ingredients": [
+      "pepper",
+      "garlic",
+      "cinnamon",
+      "chicken",
+      "vanilla extract"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take pepper and garlic, cook with cinnamon. Add chicken and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1140,
+    "ingredients": [
+      "corn",
+      "eggs",
+      "baking powder",
+      "milk",
+      "tomatoes"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take corn and eggs, cook with baking powder. Add milk and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1141,
+    "ingredients": [
+      "lemon",
+      "broccoli",
+      "butter",
+      "sugar",
+      "cinnamon"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take lemon and broccoli, cook with butter. Add sugar and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1142,
+    "ingredients": [
+      "pasta",
+      "olive oil",
+      "celery",
+      "cheese",
+      "vanilla extract"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take pasta and olive oil, cook with celery. Add cheese and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1143,
+    "ingredients": [
+      "milk",
+      "flour",
+      "corn",
+      "yogurt",
+      "pasta"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take milk and flour, cook with corn. Add yogurt and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1144,
+    "ingredients": [
+      "sugar",
+      "salt",
+      "broccoli",
+      "olive oil",
+      "milk"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take sugar and salt, cook with broccoli. Add olive oil and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1145,
+    "ingredients": [
+      "garlic",
+      "butter",
+      "beans",
+      "eggs",
+      "pasta"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take garlic and butter, cook with beans. Add eggs and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1146,
+    "ingredients": [
+      "milk",
+      "vanilla extract",
+      "olive oil",
+      "pepper",
+      "eggs"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take milk and vanilla extract, cook with olive oil. Add pepper and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1147,
+    "ingredients": [
+      "yogurt",
+      "cheese",
+      "flour",
+      "beans",
+      "butter"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take yogurt and cheese, cook with flour. Add beans and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1148,
+    "ingredients": [
+      "beans",
+      "garlic",
+      "flour",
+      "pasta",
+      "salt"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take beans and garlic, cook with flour. Add pasta and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1149,
+    "ingredients": [
+      "tomatoes",
+      "sugar",
+      "lemon",
+      "pepper",
+      "flour"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take tomatoes and sugar, cook with lemon. Add pepper and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1150,
+    "ingredients": [
+      "sugar",
+      "pepper",
+      "olive oil",
+      "beans",
+      "milk"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take sugar and pepper, cook with olive oil. Add beans and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1151,
+    "ingredients": [
+      "lemon",
+      "rice",
+      "spinach",
+      "celery",
+      "sugar"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take lemon and rice, cook with spinach. Add celery and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1152,
+    "ingredients": [
+      "flour",
+      "vanilla extract",
+      "broccoli",
+      "sugar",
+      "eggs"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take flour and vanilla extract, cook with broccoli. Add sugar and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1153,
+    "ingredients": [
+      "corn",
+      "eggs",
+      "sugar",
+      "beans",
+      "milk"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take corn and eggs, cook with sugar. Add beans and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1154,
+    "ingredients": [
+      "beef",
+      "vanilla extract",
+      "onions",
+      "pasta",
+      "rice"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take beef and vanilla extract, cook with onions. Add pasta and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1155,
+    "ingredients": [
+      "beef",
+      "eggs",
+      "flour",
+      "broccoli",
+      "rice"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take beef and eggs, cook with flour. Add broccoli and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1156,
+    "ingredients": [
+      "lemon",
+      "salt",
+      "pepper",
+      "milk",
+      "beans"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take lemon and salt, cook with pepper. Add milk and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1157,
+    "ingredients": [
+      "eggs",
+      "corn",
+      "vanilla extract",
+      "beef",
+      "spinach"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take eggs and corn, cook with vanilla extract. Add beef and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1158,
+    "ingredients": [
+      "beef",
+      "salt",
+      "rice",
+      "lemon",
+      "pasta"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take beef and salt, cook with rice. Add lemon and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1159,
+    "ingredients": [
+      "chicken",
+      "beef",
+      "corn",
+      "sugar",
+      "spinach"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take chicken and beef, cook with corn. Add sugar and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1160,
+    "ingredients": [
+      "beans",
+      "pepper",
+      "vanilla extract",
+      "lemon",
+      "eggs"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take beans and pepper, cook with vanilla extract. Add lemon and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1161,
+    "ingredients": [
+      "eggs",
+      "pasta",
+      "lemon",
+      "vanilla extract",
+      "salt"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take eggs and pasta, cook with lemon. Add vanilla extract and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1162,
+    "ingredients": [
+      "salt",
+      "beans",
+      "celery",
+      "chicken",
+      "pepper"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take salt and beans, cook with celery. Add chicken and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1163,
+    "ingredients": [
+      "pepper",
+      "butter",
+      "milk",
+      "pasta",
+      "flour"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take pepper and butter, cook with milk. Add pasta and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1164,
+    "ingredients": [
+      "tomatoes",
+      "baking powder",
+      "salt",
+      "onions",
+      "cheese"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take tomatoes and baking powder, cook with salt. Add onions and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1165,
+    "ingredients": [
+      "cheese",
+      "baking powder",
+      "sugar",
+      "yogurt",
+      "tomatoes"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take cheese and baking powder, cook with sugar. Add yogurt and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1166,
+    "ingredients": [
+      "beans",
+      "broccoli",
+      "garlic",
+      "sugar",
+      "beef"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take beans and broccoli, cook with garlic. Add sugar and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1167,
+    "ingredients": [
+      "pasta",
+      "butter",
+      "chicken",
+      "beef",
+      "rice"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take pasta and butter, cook with chicken. Add beef and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1168,
+    "ingredients": [
+      "beans",
+      "eggs",
+      "flour",
+      "vanilla extract",
+      "rice"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take beans and eggs, cook with flour. Add vanilla extract and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1169,
+    "ingredients": [
+      "pepper",
+      "chicken",
+      "beans",
+      "baking powder",
+      "rice"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take pepper and chicken, cook with beans. Add baking powder and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1170,
+    "ingredients": [
+      "garlic",
+      "pasta",
+      "onions",
+      "broccoli",
+      "butter"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take garlic and pasta, cook with onions. Add broccoli and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1171,
+    "ingredients": [
+      "vanilla extract",
+      "chicken",
+      "flour",
+      "spinach",
+      "corn"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take vanilla extract and chicken, cook with flour. Add spinach and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1172,
+    "ingredients": [
+      "broccoli",
+      "corn",
+      "beans",
+      "pepper",
+      "tomatoes"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take broccoli and corn, cook with beans. Add pepper and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1173,
+    "ingredients": [
+      "chicken",
+      "garlic",
+      "olive oil",
+      "corn",
+      "cheese"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take chicken and garlic, cook with olive oil. Add corn and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1174,
+    "ingredients": [
+      "eggs",
+      "olive oil",
+      "beans",
+      "chicken",
+      "baking powder"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take eggs and olive oil, cook with beans. Add chicken and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1175,
+    "ingredients": [
+      "chicken",
+      "olive oil",
+      "yogurt",
+      "vanilla extract",
+      "baking powder"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take chicken and olive oil, cook with yogurt. Add vanilla extract and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1176,
+    "ingredients": [
+      "milk",
+      "spinach",
+      "salt",
+      "butter",
+      "onions"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take milk and spinach, cook with salt. Add butter and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1177,
+    "ingredients": [
+      "garlic",
+      "onions",
+      "chicken",
+      "flour",
+      "celery"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take garlic and onions, cook with chicken. Add flour and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1178,
+    "ingredients": [
+      "broccoli",
+      "baking powder",
+      "butter",
+      "celery",
+      "garlic"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take broccoli and baking powder, cook with butter. Add celery and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1179,
+    "ingredients": [
+      "flour",
+      "celery",
+      "olive oil",
+      "lemon",
+      "salt"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take flour and celery, cook with olive oil. Add lemon and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1180,
+    "ingredients": [
+      "yogurt",
+      "cinnamon",
+      "tomatoes",
+      "celery",
+      "vanilla extract"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take yogurt and cinnamon, cook with tomatoes. Add celery and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1181,
+    "ingredients": [
+      "baking powder",
+      "sugar",
+      "spinach",
+      "chicken",
+      "beans"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take baking powder and sugar, cook with spinach. Add chicken and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1182,
+    "ingredients": [
+      "corn",
+      "flour",
+      "vanilla extract",
+      "baking powder",
+      "sugar"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take corn and flour, cook with vanilla extract. Add baking powder and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1183,
+    "ingredients": [
+      "salt",
+      "lemon",
+      "pepper",
+      "corn",
+      "vanilla extract"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take salt and lemon, cook with pepper. Add corn and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1184,
+    "ingredients": [
+      "tomatoes",
+      "yogurt",
+      "sugar",
+      "milk",
+      "garlic"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take tomatoes and yogurt, cook with sugar. Add milk and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1185,
+    "ingredients": [
+      "cinnamon",
+      "beans",
+      "garlic",
+      "milk",
+      "onions"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take cinnamon and beans, cook with garlic. Add milk and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1186,
+    "ingredients": [
+      "sugar",
+      "spinach",
+      "milk",
+      "eggs",
+      "rice"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take sugar and spinach, cook with milk. Add eggs and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1187,
+    "ingredients": [
+      "beef",
+      "beans",
+      "celery",
+      "spinach",
+      "vanilla extract"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take beef and beans, cook with celery. Add spinach and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1188,
+    "ingredients": [
+      "milk",
+      "cinnamon",
+      "pepper",
+      "beef",
+      "sugar"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take milk and cinnamon, cook with pepper. Add beef and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1189,
+    "ingredients": [
+      "pepper",
+      "celery",
+      "lemon",
+      "eggs",
+      "chicken"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take pepper and celery, cook with lemon. Add eggs and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1190,
+    "ingredients": [
+      "celery",
+      "chicken",
+      "cinnamon",
+      "flour",
+      "cheese"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take celery and chicken, cook with cinnamon. Add flour and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1191,
+    "ingredients": [
+      "pasta",
+      "butter",
+      "olive oil",
+      "flour",
+      "celery"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take pasta and butter, cook with olive oil. Add flour and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1192,
+    "ingredients": [
+      "beef",
+      "olive oil",
+      "onions",
+      "corn",
+      "garlic"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take beef and olive oil, cook with onions. Add corn and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1193,
+    "ingredients": [
+      "spinach",
+      "broccoli",
+      "cinnamon",
+      "pepper",
+      "vanilla extract"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take spinach and broccoli, cook with cinnamon. Add pepper and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1194,
+    "ingredients": [
+      "chicken",
+      "lemon",
+      "beans",
+      "pasta",
+      "vanilla extract"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take chicken and lemon, cook with beans. Add pasta and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1195,
+    "ingredients": [
+      "eggs",
+      "yogurt",
+      "beef",
+      "celery",
+      "vanilla extract"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take eggs and yogurt, cook with beef. Add celery and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1196,
+    "ingredients": [
+      "lemon",
+      "spinach",
+      "rice",
+      "chicken",
+      "tomatoes"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take lemon and spinach, cook with rice. Add chicken and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1197,
+    "ingredients": [
+      "corn",
+      "baking powder",
+      "chicken",
+      "onions",
+      "garlic"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take corn and baking powder, cook with chicken. Add onions and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1198,
+    "ingredients": [
+      "beans",
+      "garlic",
+      "baking powder",
+      "sugar",
+      "milk"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take beans and garlic, cook with baking powder. Add sugar and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1199,
+    "ingredients": [
+      "cheese",
+      "garlic",
+      "corn",
+      "chicken",
+      "eggs"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take cheese and garlic, cook with corn. Add chicken and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1200,
+    "ingredients": [
+      "eggs",
+      "celery",
+      "flour",
+      "butter",
+      "vanilla extract"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take eggs and celery, cook with flour. Add butter and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1201,
+    "ingredients": [
+      "vanilla extract",
+      "pepper",
+      "onions",
+      "eggs",
+      "olive oil"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take vanilla extract and pepper, cook with onions. Add eggs and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1202,
+    "ingredients": [
+      "rice",
+      "onions",
+      "broccoli",
+      "lemon",
+      "sugar"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take rice and onions, cook with broccoli. Add lemon and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1203,
+    "ingredients": [
+      "rice",
+      "pepper",
+      "spinach",
+      "beef",
+      "broccoli"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take rice and pepper, cook with spinach. Add beef and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1204,
+    "ingredients": [
+      "rice",
+      "spinach",
+      "flour",
+      "baking powder",
+      "lemon"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take rice and spinach, cook with flour. Add baking powder and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1205,
+    "ingredients": [
+      "beef",
+      "celery",
+      "chicken",
+      "flour",
+      "broccoli"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take beef and celery, cook with chicken. Add flour and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1206,
+    "ingredients": [
+      "butter",
+      "cheese",
+      "baking powder",
+      "salt",
+      "rice"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take butter and cheese, cook with baking powder. Add salt and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1207,
+    "ingredients": [
+      "eggs",
+      "vanilla extract",
+      "sugar",
+      "beef",
+      "salt"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take eggs and vanilla extract, cook with sugar. Add beef and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1208,
+    "ingredients": [
+      "pepper",
+      "sugar",
+      "chicken",
+      "olive oil",
+      "onions"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take pepper and sugar, cook with chicken. Add olive oil and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1209,
+    "ingredients": [
+      "tomatoes",
+      "spinach",
+      "butter",
+      "olive oil",
+      "onions"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take tomatoes and spinach, cook with butter. Add olive oil and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1210,
+    "ingredients": [
+      "tomatoes",
+      "beans",
+      "milk",
+      "chicken",
+      "butter"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take tomatoes and beans, cook with milk. Add chicken and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1211,
+    "ingredients": [
+      "garlic",
+      "yogurt",
+      "beef",
+      "tomatoes",
+      "cheese"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take garlic and yogurt, cook with beef. Add tomatoes and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1212,
+    "ingredients": [
+      "milk",
+      "beans",
+      "beef",
+      "salt",
+      "broccoli"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take milk and beans, cook with beef. Add salt and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1213,
+    "ingredients": [
+      "cinnamon",
+      "sugar",
+      "corn",
+      "celery",
+      "beans"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take cinnamon and sugar, cook with corn. Add celery and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1214,
+    "ingredients": [
+      "onions",
+      "baking powder",
+      "olive oil",
+      "corn",
+      "milk"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take onions and baking powder, cook with olive oil. Add corn and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1215,
+    "ingredients": [
+      "cheese",
+      "milk",
+      "flour",
+      "beef",
+      "beans"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take cheese and milk, cook with flour. Add beef and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1216,
+    "ingredients": [
+      "onions",
+      "flour",
+      "spinach",
+      "chicken",
+      "eggs"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take onions and flour, cook with spinach. Add chicken and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1217,
+    "ingredients": [
+      "olive oil",
+      "tomatoes",
+      "baking powder",
+      "celery",
+      "cinnamon"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take olive oil and tomatoes, cook with baking powder. Add celery and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1218,
+    "ingredients": [
+      "tomatoes",
+      "pepper",
+      "onions",
+      "cheese",
+      "butter"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take tomatoes and pepper, cook with onions. Add cheese and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1219,
+    "ingredients": [
+      "corn",
+      "beef",
+      "vanilla extract",
+      "pepper",
+      "yogurt"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take corn and beef, cook with vanilla extract. Add pepper and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1220,
+    "ingredients": [
+      "spinach",
+      "salt",
+      "onions",
+      "garlic",
+      "milk"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take spinach and salt, cook with onions. Add garlic and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1221,
+    "ingredients": [
+      "flour",
+      "sugar",
+      "vanilla extract",
+      "rice",
+      "onions"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take flour and sugar, cook with vanilla extract. Add rice and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1222,
+    "ingredients": [
+      "beef",
+      "olive oil",
+      "cheese",
+      "sugar",
+      "salt"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take beef and olive oil, cook with cheese. Add sugar and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1223,
+    "ingredients": [
+      "beans",
+      "salt",
+      "garlic",
+      "lemon",
+      "eggs"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take beans and salt, cook with garlic. Add lemon and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1224,
+    "ingredients": [
+      "broccoli",
+      "lemon",
+      "cheese",
+      "rice",
+      "garlic"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take broccoli and lemon, cook with cheese. Add rice and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1225,
+    "ingredients": [
+      "baking powder",
+      "corn",
+      "beef",
+      "garlic",
+      "salt"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take baking powder and corn, cook with beef. Add garlic and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1226,
+    "ingredients": [
+      "sugar",
+      "celery",
+      "onions",
+      "spinach",
+      "vanilla extract"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take sugar and celery, cook with onions. Add spinach and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1227,
+    "ingredients": [
+      "celery",
+      "cinnamon",
+      "beef",
+      "cheese",
+      "vanilla extract"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take celery and cinnamon, cook with beef. Add cheese and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1228,
+    "ingredients": [
+      "eggs",
+      "pasta",
+      "salt",
+      "spinach",
+      "celery"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take eggs and pasta, cook with salt. Add spinach and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1229,
+    "ingredients": [
+      "garlic",
+      "corn",
+      "olive oil",
+      "salt",
+      "sugar"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take garlic and corn, cook with olive oil. Add salt and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1230,
+    "ingredients": [
+      "milk",
+      "broccoli",
+      "vanilla extract",
+      "flour",
+      "pasta"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take milk and broccoli, cook with vanilla extract. Add flour and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1231,
+    "ingredients": [
+      "chicken",
+      "corn",
+      "beef",
+      "pepper",
+      "milk"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take chicken and corn, cook with beef. Add pepper and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1232,
+    "ingredients": [
+      "broccoli",
+      "sugar",
+      "baking powder",
+      "eggs",
+      "yogurt"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take broccoli and sugar, cook with baking powder. Add eggs and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1233,
+    "ingredients": [
+      "olive oil",
+      "milk",
+      "beans",
+      "pasta",
+      "corn"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take olive oil and milk, cook with beans. Add pasta and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1234,
+    "ingredients": [
+      "vanilla extract",
+      "cinnamon",
+      "olive oil",
+      "pasta",
+      "beans"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take vanilla extract and cinnamon, cook with olive oil. Add pasta and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1235,
+    "ingredients": [
+      "cheese",
+      "garlic",
+      "lemon",
+      "beef",
+      "butter"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take cheese and garlic, cook with lemon. Add beef and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1236,
+    "ingredients": [
+      "milk",
+      "corn",
+      "garlic",
+      "pasta",
+      "salt"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take milk and corn, cook with garlic. Add pasta and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1237,
+    "ingredients": [
+      "eggs",
+      "lemon",
+      "baking powder",
+      "pasta",
+      "broccoli"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take eggs and lemon, cook with baking powder. Add pasta and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1238,
+    "ingredients": [
+      "rice",
+      "chicken",
+      "lemon",
+      "vanilla extract",
+      "salt"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take rice and chicken, cook with lemon. Add vanilla extract and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1239,
+    "ingredients": [
+      "milk",
+      "pepper",
+      "eggs",
+      "tomatoes",
+      "lemon"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take milk and pepper, cook with eggs. Add tomatoes and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1240,
+    "ingredients": [
+      "baking powder",
+      "eggs",
+      "garlic",
+      "milk",
+      "pasta"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take baking powder and eggs, cook with garlic. Add milk and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1241,
+    "ingredients": [
+      "beans",
+      "pepper",
+      "corn",
+      "vanilla extract",
+      "yogurt"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take beans and pepper, cook with corn. Add vanilla extract and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1242,
+    "ingredients": [
+      "butter",
+      "garlic",
+      "broccoli",
+      "spinach",
+      "milk"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take butter and garlic, cook with broccoli. Add spinach and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1243,
+    "ingredients": [
+      "sugar",
+      "corn",
+      "broccoli",
+      "cinnamon",
+      "vanilla extract"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take sugar and corn, cook with broccoli. Add cinnamon and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1244,
+    "ingredients": [
+      "celery",
+      "salt",
+      "cheese",
+      "sugar",
+      "pepper"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take celery and salt, cook with cheese. Add sugar and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1245,
+    "ingredients": [
+      "beans",
+      "onions",
+      "eggs",
+      "cinnamon",
+      "beef"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take beans and onions, cook with eggs. Add cinnamon and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1246,
+    "ingredients": [
+      "spinach",
+      "cheese",
+      "salt",
+      "olive oil",
+      "butter"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take spinach and cheese, cook with salt. Add olive oil and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1247,
+    "ingredients": [
+      "cinnamon",
+      "celery",
+      "pasta",
+      "beans",
+      "beef"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take cinnamon and celery, cook with pasta. Add beans and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1248,
+    "ingredients": [
+      "salt",
+      "pepper",
+      "tomatoes",
+      "onions",
+      "lemon"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take salt and pepper, cook with tomatoes. Add onions and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1249,
+    "ingredients": [
+      "beef",
+      "sugar",
+      "baking powder",
+      "flour",
+      "corn"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take beef and sugar, cook with baking powder. Add flour and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1250,
+    "ingredients": [
+      "flour",
+      "spinach",
+      "garlic",
+      "broccoli",
+      "milk"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take flour and spinach, cook with garlic. Add broccoli and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1251,
+    "ingredients": [
+      "pepper",
+      "eggs",
+      "beef",
+      "spinach",
+      "onions"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take pepper and eggs, cook with beef. Add spinach and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1252,
+    "ingredients": [
+      "broccoli",
+      "milk",
+      "chicken",
+      "flour",
+      "sugar"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take broccoli and milk, cook with chicken. Add flour and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1253,
+    "ingredients": [
+      "chicken",
+      "butter",
+      "olive oil",
+      "cinnamon",
+      "onions"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take chicken and butter, cook with olive oil. Add cinnamon and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1254,
+    "ingredients": [
+      "celery",
+      "olive oil",
+      "broccoli",
+      "baking powder",
+      "onions"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take celery and olive oil, cook with broccoli. Add baking powder and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1255,
+    "ingredients": [
+      "pasta",
+      "corn",
+      "vanilla extract",
+      "onions",
+      "yogurt"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take pasta and corn, cook with vanilla extract. Add onions and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1256,
+    "ingredients": [
+      "chicken",
+      "cinnamon",
+      "tomatoes",
+      "eggs",
+      "beans"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take chicken and cinnamon, cook with tomatoes. Add eggs and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1257,
+    "ingredients": [
+      "sugar",
+      "broccoli",
+      "lemon",
+      "beans",
+      "cheese"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take sugar and broccoli, cook with lemon. Add beans and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1258,
+    "ingredients": [
+      "cheese",
+      "olive oil",
+      "lemon",
+      "baking powder",
+      "salt"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take cheese and olive oil, cook with lemon. Add baking powder and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1259,
+    "ingredients": [
+      "yogurt",
+      "corn",
+      "rice",
+      "baking powder",
+      "pepper"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take yogurt and corn, cook with rice. Add baking powder and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1260,
+    "ingredients": [
+      "garlic",
+      "spinach",
+      "butter",
+      "olive oil",
+      "milk"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take garlic and spinach, cook with butter. Add olive oil and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1261,
+    "ingredients": [
+      "broccoli",
+      "sugar",
+      "cheese",
+      "chicken",
+      "corn"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take broccoli and sugar, cook with cheese. Add chicken and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1262,
+    "ingredients": [
+      "pepper",
+      "pasta",
+      "olive oil",
+      "baking powder",
+      "celery"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take pepper and pasta, cook with olive oil. Add baking powder and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1263,
+    "ingredients": [
+      "sugar",
+      "eggs",
+      "garlic",
+      "salt",
+      "onions"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take sugar and eggs, cook with garlic. Add salt and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1264,
+    "ingredients": [
+      "tomatoes",
+      "pasta",
+      "spinach",
+      "broccoli",
+      "garlic"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take tomatoes and pasta, cook with spinach. Add broccoli and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1265,
+    "ingredients": [
+      "salt",
+      "garlic",
+      "yogurt",
+      "pasta",
+      "beans"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take salt and garlic, cook with yogurt. Add pasta and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1266,
+    "ingredients": [
+      "milk",
+      "beef",
+      "broccoli",
+      "spinach",
+      "olive oil"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take milk and beef, cook with broccoli. Add spinach and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1267,
+    "ingredients": [
+      "broccoli",
+      "eggs",
+      "celery",
+      "butter",
+      "yogurt"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take broccoli and eggs, cook with celery. Add butter and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1268,
+    "ingredients": [
+      "pepper",
+      "salt",
+      "cinnamon",
+      "rice",
+      "eggs"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take pepper and salt, cook with cinnamon. Add rice and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1269,
+    "ingredients": [
+      "tomatoes",
+      "beans",
+      "chicken",
+      "sugar",
+      "milk"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take tomatoes and beans, cook with chicken. Add sugar and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1270,
+    "ingredients": [
+      "sugar",
+      "yogurt",
+      "rice",
+      "onions",
+      "lemon"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take sugar and yogurt, cook with rice. Add onions and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1271,
+    "ingredients": [
+      "butter",
+      "sugar",
+      "cheese",
+      "corn",
+      "tomatoes"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take butter and sugar, cook with cheese. Add corn and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1272,
+    "ingredients": [
+      "celery",
+      "salt",
+      "milk",
+      "cinnamon",
+      "cheese"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take celery and salt, cook with milk. Add cinnamon and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1273,
+    "ingredients": [
+      "cheese",
+      "rice",
+      "beef",
+      "butter",
+      "eggs"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take cheese and rice, cook with beef. Add butter and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1274,
+    "ingredients": [
+      "beef",
+      "vanilla extract",
+      "cinnamon",
+      "pepper",
+      "broccoli"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take beef and vanilla extract, cook with cinnamon. Add pepper and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1275,
+    "ingredients": [
+      "pepper",
+      "corn",
+      "spinach",
+      "tomatoes",
+      "salt"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take pepper and corn, cook with spinach. Add tomatoes and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1276,
+    "ingredients": [
+      "yogurt",
+      "vanilla extract",
+      "rice",
+      "eggs",
+      "butter"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take yogurt and vanilla extract, cook with rice. Add eggs and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1277,
+    "ingredients": [
+      "baking powder",
+      "onions",
+      "vanilla extract",
+      "cheese",
+      "broccoli"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take baking powder and onions, cook with vanilla extract. Add cheese and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1278,
+    "ingredients": [
+      "pasta",
+      "salt",
+      "corn",
+      "garlic",
+      "yogurt"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take pasta and salt, cook with corn. Add garlic and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1279,
+    "ingredients": [
+      "milk",
+      "cinnamon",
+      "celery",
+      "eggs",
+      "beef"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take milk and cinnamon, cook with celery. Add eggs and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1280,
+    "ingredients": [
+      "salt",
+      "vanilla extract",
+      "spinach",
+      "cinnamon",
+      "onions"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take salt and vanilla extract, cook with spinach. Add cinnamon and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1281,
+    "ingredients": [
+      "pepper",
+      "chicken",
+      "beef",
+      "corn",
+      "spinach"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take pepper and chicken, cook with beef. Add corn and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1282,
+    "ingredients": [
+      "tomatoes",
+      "cheese",
+      "onions",
+      "rice",
+      "broccoli"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take tomatoes and cheese, cook with onions. Add rice and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1283,
+    "ingredients": [
+      "yogurt",
+      "vanilla extract",
+      "rice",
+      "sugar",
+      "salt"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take yogurt and vanilla extract, cook with rice. Add sugar and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1284,
+    "ingredients": [
+      "baking powder",
+      "salt",
+      "cheese",
+      "onions",
+      "pepper"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take baking powder and salt, cook with cheese. Add onions and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1285,
+    "ingredients": [
+      "beef",
+      "broccoli",
+      "butter",
+      "corn",
+      "lemon"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take beef and broccoli, cook with butter. Add corn and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1286,
+    "ingredients": [
+      "pasta",
+      "sugar",
+      "tomatoes",
+      "beans",
+      "broccoli"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take pasta and sugar, cook with tomatoes. Add beans and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1287,
+    "ingredients": [
+      "vanilla extract",
+      "tomatoes",
+      "sugar",
+      "milk",
+      "yogurt"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take vanilla extract and tomatoes, cook with sugar. Add milk and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1288,
+    "ingredients": [
+      "sugar",
+      "yogurt",
+      "spinach",
+      "baking powder",
+      "vanilla extract"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take sugar and yogurt, cook with spinach. Add baking powder and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1289,
+    "ingredients": [
+      "cinnamon",
+      "milk",
+      "vanilla extract",
+      "spinach",
+      "olive oil"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take cinnamon and milk, cook with vanilla extract. Add spinach and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1290,
+    "ingredients": [
+      "tomatoes",
+      "milk",
+      "lemon",
+      "cinnamon",
+      "corn"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take tomatoes and milk, cook with lemon. Add cinnamon and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1291,
+    "ingredients": [
+      "celery",
+      "beans",
+      "pepper",
+      "cinnamon",
+      "spinach"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take celery and beans, cook with pepper. Add cinnamon and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1292,
+    "ingredients": [
+      "baking powder",
+      "rice",
+      "cheese",
+      "beef",
+      "onions"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take baking powder and rice, cook with cheese. Add beef and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1293,
+    "ingredients": [
+      "salt",
+      "butter",
+      "cinnamon",
+      "spinach",
+      "yogurt"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take salt and butter, cook with cinnamon. Add spinach and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1294,
+    "ingredients": [
+      "spinach",
+      "beans",
+      "pasta",
+      "broccoli",
+      "sugar"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take spinach and beans, cook with pasta. Add broccoli and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1295,
+    "ingredients": [
+      "salt",
+      "beans",
+      "pepper",
+      "milk",
+      "yogurt"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take salt and beans, cook with pepper. Add milk and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1296,
+    "ingredients": [
+      "baking powder",
+      "beef",
+      "beans",
+      "butter",
+      "olive oil"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take baking powder and beef, cook with beans. Add butter and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1297,
+    "ingredients": [
+      "pepper",
+      "flour",
+      "milk",
+      "beans",
+      "garlic"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take pepper and flour, cook with milk. Add beans and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1298,
+    "ingredients": [
+      "garlic",
+      "tomatoes",
+      "baking powder",
+      "corn",
+      "flour"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take garlic and tomatoes, cook with baking powder. Add corn and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1299,
+    "ingredients": [
+      "olive oil",
+      "celery",
+      "milk",
+      "yogurt",
+      "salt"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take olive oil and celery, cook with milk. Add yogurt and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1300,
+    "ingredients": [
+      "tomatoes",
+      "onions",
+      "broccoli",
+      "pasta",
+      "beans"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take tomatoes and onions, cook with broccoli. Add pasta and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1301,
+    "ingredients": [
+      "olive oil",
+      "rice",
+      "beans",
+      "garlic",
+      "cinnamon"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take olive oil and rice, cook with beans. Add garlic and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1302,
+    "ingredients": [
+      "milk",
+      "olive oil",
+      "lemon",
+      "beans",
+      "beef"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take milk and olive oil, cook with lemon. Add beans and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1303,
+    "ingredients": [
+      "salt",
+      "baking powder",
+      "lemon",
+      "garlic",
+      "flour"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take salt and baking powder, cook with lemon. Add garlic and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1304,
+    "ingredients": [
+      "lemon",
+      "corn",
+      "milk",
+      "pepper",
+      "vanilla extract"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take lemon and corn, cook with milk. Add pepper and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1305,
+    "ingredients": [
+      "spinach",
+      "flour",
+      "beef",
+      "yogurt",
+      "onions"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take spinach and flour, cook with beef. Add yogurt and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1306,
+    "ingredients": [
+      "yogurt",
+      "beans",
+      "chicken",
+      "pepper",
+      "broccoli"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take yogurt and beans, cook with chicken. Add pepper and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1307,
+    "ingredients": [
+      "yogurt",
+      "spinach",
+      "cheese",
+      "celery",
+      "beans"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take yogurt and spinach, cook with cheese. Add celery and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1308,
+    "ingredients": [
+      "tomatoes",
+      "garlic",
+      "beans",
+      "spinach",
+      "beef"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take tomatoes and garlic, cook with beans. Add spinach and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1309,
+    "ingredients": [
+      "sugar",
+      "olive oil",
+      "celery",
+      "milk",
+      "chicken"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take sugar and olive oil, cook with celery. Add milk and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1310,
+    "ingredients": [
+      "chicken",
+      "cinnamon",
+      "cheese",
+      "vanilla extract",
+      "baking powder"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take chicken and cinnamon, cook with cheese. Add vanilla extract and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1311,
+    "ingredients": [
+      "baking powder",
+      "tomatoes",
+      "chicken",
+      "pasta",
+      "onions"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take baking powder and tomatoes, cook with chicken. Add pasta and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1312,
+    "ingredients": [
+      "sugar",
+      "broccoli",
+      "chicken",
+      "pasta",
+      "baking powder"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take sugar and broccoli, cook with chicken. Add pasta and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1313,
+    "ingredients": [
+      "vanilla extract",
+      "pepper",
+      "cinnamon",
+      "beef",
+      "rice"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take vanilla extract and pepper, cook with cinnamon. Add beef and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1314,
+    "ingredients": [
+      "salt",
+      "sugar",
+      "lemon",
+      "corn",
+      "flour"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take salt and sugar, cook with lemon. Add corn and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1315,
+    "ingredients": [
+      "cheese",
+      "tomatoes",
+      "onions",
+      "broccoli",
+      "corn"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take cheese and tomatoes, cook with onions. Add broccoli and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1316,
+    "ingredients": [
+      "vanilla extract",
+      "butter",
+      "sugar",
+      "cinnamon",
+      "olive oil"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take vanilla extract and butter, cook with sugar. Add cinnamon and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1317,
+    "ingredients": [
+      "onions",
+      "flour",
+      "cheese",
+      "pepper",
+      "butter"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take onions and flour, cook with cheese. Add pepper and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1318,
+    "ingredients": [
+      "broccoli",
+      "pepper",
+      "butter",
+      "sugar",
+      "corn"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take broccoli and pepper, cook with butter. Add sugar and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1319,
+    "ingredients": [
+      "eggs",
+      "flour",
+      "olive oil",
+      "baking powder",
+      "spinach"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take eggs and flour, cook with olive oil. Add baking powder and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1320,
+    "ingredients": [
+      "tomatoes",
+      "lemon",
+      "pepper",
+      "cinnamon",
+      "salt"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take tomatoes and lemon, cook with pepper. Add cinnamon and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1321,
+    "ingredients": [
+      "vanilla extract",
+      "pasta",
+      "cheese",
+      "salt",
+      "baking powder"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take vanilla extract and pasta, cook with cheese. Add salt and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1322,
+    "ingredients": [
+      "cheese",
+      "corn",
+      "butter",
+      "sugar",
+      "flour"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take cheese and corn, cook with butter. Add sugar and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1323,
+    "ingredients": [
+      "chicken",
+      "onions",
+      "garlic",
+      "pasta",
+      "sugar"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take chicken and onions, cook with garlic. Add pasta and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1324,
+    "ingredients": [
+      "eggs",
+      "spinach",
+      "celery",
+      "butter",
+      "broccoli"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take eggs and spinach, cook with celery. Add butter and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1325,
+    "ingredients": [
+      "beans",
+      "beef",
+      "onions",
+      "vanilla extract",
+      "pasta"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take beans and beef, cook with onions. Add vanilla extract and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1326,
+    "ingredients": [
+      "butter",
+      "pepper",
+      "sugar",
+      "cinnamon",
+      "broccoli"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take butter and pepper, cook with sugar. Add cinnamon and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1327,
+    "ingredients": [
+      "sugar",
+      "baking powder",
+      "yogurt",
+      "cinnamon",
+      "corn"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take sugar and baking powder, cook with yogurt. Add cinnamon and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1328,
+    "ingredients": [
+      "butter",
+      "pepper",
+      "vanilla extract",
+      "yogurt",
+      "beef"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take butter and pepper, cook with vanilla extract. Add yogurt and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1329,
+    "ingredients": [
+      "rice",
+      "cinnamon",
+      "eggs",
+      "chicken",
+      "garlic"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take rice and cinnamon, cook with eggs. Add chicken and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1330,
+    "ingredients": [
+      "sugar",
+      "tomatoes",
+      "vanilla extract",
+      "spinach",
+      "pasta"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take sugar and tomatoes, cook with vanilla extract. Add spinach and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1331,
+    "ingredients": [
+      "vanilla extract",
+      "tomatoes",
+      "broccoli",
+      "yogurt",
+      "cheese"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take vanilla extract and tomatoes, cook with broccoli. Add yogurt and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1332,
+    "ingredients": [
+      "pepper",
+      "baking powder",
+      "chicken",
+      "sugar",
+      "yogurt"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take pepper and baking powder, cook with chicken. Add sugar and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1333,
+    "ingredients": [
+      "pepper",
+      "garlic",
+      "yogurt",
+      "sugar",
+      "vanilla extract"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take pepper and garlic, cook with yogurt. Add sugar and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1334,
+    "ingredients": [
+      "pasta",
+      "rice",
+      "salt",
+      "chicken",
+      "butter"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take pasta and rice, cook with salt. Add chicken and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1335,
+    "ingredients": [
+      "baking powder",
+      "sugar",
+      "pasta",
+      "lemon",
+      "yogurt"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take baking powder and sugar, cook with pasta. Add lemon and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1336,
+    "ingredients": [
+      "garlic",
+      "chicken",
+      "butter",
+      "pepper",
+      "beef"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take garlic and chicken, cook with butter. Add pepper and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1337,
+    "ingredients": [
+      "olive oil",
+      "broccoli",
+      "yogurt",
+      "beans",
+      "onions"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take olive oil and broccoli, cook with yogurt. Add beans and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1338,
+    "ingredients": [
+      "rice",
+      "lemon",
+      "salt",
+      "corn",
+      "pasta"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take rice and lemon, cook with salt. Add corn and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1339,
+    "ingredients": [
+      "pepper",
+      "vanilla extract",
+      "corn",
+      "tomatoes",
+      "baking powder"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take pepper and vanilla extract, cook with corn. Add tomatoes and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1340,
+    "ingredients": [
+      "beans",
+      "pasta",
+      "broccoli",
+      "butter",
+      "chicken"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take beans and pasta, cook with broccoli. Add butter and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1341,
+    "ingredients": [
+      "milk",
+      "onions",
+      "vanilla extract",
+      "garlic",
+      "tomatoes"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take milk and onions, cook with vanilla extract. Add garlic and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1342,
+    "ingredients": [
+      "butter",
+      "celery",
+      "eggs",
+      "sugar",
+      "cheese"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take butter and celery, cook with eggs. Add sugar and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1343,
+    "ingredients": [
+      "sugar",
+      "flour",
+      "cheese",
+      "milk",
+      "pasta"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take sugar and flour, cook with cheese. Add milk and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1344,
+    "ingredients": [
+      "lemon",
+      "sugar",
+      "garlic",
+      "flour",
+      "baking powder"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take lemon and sugar, cook with garlic. Add flour and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1345,
+    "ingredients": [
+      "corn",
+      "lemon",
+      "salt",
+      "flour",
+      "rice"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take corn and lemon, cook with salt. Add flour and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1346,
+    "ingredients": [
+      "rice",
+      "chicken",
+      "onions",
+      "baking powder",
+      "celery"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take rice and chicken, cook with onions. Add baking powder and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1347,
+    "ingredients": [
+      "chicken",
+      "baking powder",
+      "broccoli",
+      "spinach",
+      "olive oil"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take chicken and baking powder, cook with broccoli. Add spinach and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1348,
+    "ingredients": [
+      "spinach",
+      "yogurt",
+      "rice",
+      "butter",
+      "cheese"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take spinach and yogurt, cook with rice. Add butter and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1349,
+    "ingredients": [
+      "cinnamon",
+      "olive oil",
+      "corn",
+      "sugar",
+      "lemon"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take cinnamon and olive oil, cook with corn. Add sugar and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1350,
+    "ingredients": [
+      "butter",
+      "yogurt",
+      "beans",
+      "spinach",
+      "sugar"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take butter and yogurt, cook with beans. Add spinach and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1351,
+    "ingredients": [
+      "rice",
+      "vanilla extract",
+      "baking powder",
+      "milk",
+      "tomatoes"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take rice and vanilla extract, cook with baking powder. Add milk and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1352,
+    "ingredients": [
+      "rice",
+      "lemon",
+      "pepper",
+      "pasta",
+      "corn"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take rice and lemon, cook with pepper. Add pasta and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1353,
+    "ingredients": [
+      "milk",
+      "pepper",
+      "garlic",
+      "tomatoes",
+      "spinach"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take milk and pepper, cook with garlic. Add tomatoes and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1354,
+    "ingredients": [
+      "tomatoes",
+      "salt",
+      "yogurt",
+      "chicken",
+      "butter"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take tomatoes and salt, cook with yogurt. Add chicken and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1355,
+    "ingredients": [
+      "yogurt",
+      "baking powder",
+      "beef",
+      "garlic",
+      "milk"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take yogurt and baking powder, cook with beef. Add garlic and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1356,
+    "ingredients": [
+      "garlic",
+      "yogurt",
+      "flour",
+      "salt",
+      "sugar"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take garlic and yogurt, cook with flour. Add salt and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1357,
+    "ingredients": [
+      "pasta",
+      "salt",
+      "eggs",
+      "pepper",
+      "milk"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take pasta and salt, cook with eggs. Add pepper and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1358,
+    "ingredients": [
+      "yogurt",
+      "corn",
+      "cheese",
+      "rice",
+      "broccoli"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take yogurt and corn, cook with cheese. Add rice and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1359,
+    "ingredients": [
+      "spinach",
+      "broccoli",
+      "corn",
+      "yogurt",
+      "tomatoes"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take spinach and broccoli, cook with corn. Add yogurt and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1360,
+    "ingredients": [
+      "baking powder",
+      "olive oil",
+      "rice",
+      "yogurt",
+      "pasta"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take baking powder and olive oil, cook with rice. Add yogurt and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1361,
+    "ingredients": [
+      "beef",
+      "cinnamon",
+      "butter",
+      "beans",
+      "corn"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take beef and cinnamon, cook with butter. Add beans and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1362,
+    "ingredients": [
+      "salt",
+      "cinnamon",
+      "rice",
+      "vanilla extract",
+      "cheese"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take salt and cinnamon, cook with rice. Add vanilla extract and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1363,
+    "ingredients": [
+      "yogurt",
+      "olive oil",
+      "beef",
+      "cheese",
+      "onions"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take yogurt and olive oil, cook with beef. Add cheese and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1364,
+    "ingredients": [
+      "spinach",
+      "vanilla extract",
+      "milk",
+      "rice",
+      "lemon"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take spinach and vanilla extract, cook with milk. Add rice and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1365,
+    "ingredients": [
+      "celery",
+      "pasta",
+      "onions",
+      "lemon",
+      "eggs"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take celery and pasta, cook with onions. Add lemon and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1366,
+    "ingredients": [
+      "sugar",
+      "baking powder",
+      "onions",
+      "eggs",
+      "beef"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take sugar and baking powder, cook with onions. Add eggs and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1367,
+    "ingredients": [
+      "yogurt",
+      "broccoli",
+      "corn",
+      "vanilla extract",
+      "chicken"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take yogurt and broccoli, cook with corn. Add vanilla extract and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1368,
+    "ingredients": [
+      "milk",
+      "rice",
+      "spinach",
+      "salt",
+      "pasta"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take milk and rice, cook with spinach. Add salt and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1369,
+    "ingredients": [
+      "sugar",
+      "vanilla extract",
+      "pasta",
+      "cinnamon",
+      "rice"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take sugar and vanilla extract, cook with pasta. Add cinnamon and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1370,
+    "ingredients": [
+      "corn",
+      "tomatoes",
+      "onions",
+      "sugar",
+      "pasta"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take corn and tomatoes, cook with onions. Add sugar and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1371,
+    "ingredients": [
+      "yogurt",
+      "pepper",
+      "chicken",
+      "eggs",
+      "olive oil"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take yogurt and pepper, cook with chicken. Add eggs and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1372,
+    "ingredients": [
+      "cheese",
+      "yogurt",
+      "salt",
+      "beans",
+      "vanilla extract"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take cheese and yogurt, cook with salt. Add beans and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1373,
+    "ingredients": [
+      "cinnamon",
+      "olive oil",
+      "broccoli",
+      "corn",
+      "cheese"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take cinnamon and olive oil, cook with broccoli. Add corn and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1374,
+    "ingredients": [
+      "spinach",
+      "yogurt",
+      "butter",
+      "vanilla extract",
+      "salt"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take spinach and yogurt, cook with butter. Add vanilla extract and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1375,
+    "ingredients": [
+      "beans",
+      "chicken",
+      "butter",
+      "vanilla extract",
+      "baking powder"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take beans and chicken, cook with butter. Add vanilla extract and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1376,
+    "ingredients": [
+      "rice",
+      "celery",
+      "olive oil",
+      "onions",
+      "lemon"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take rice and celery, cook with olive oil. Add onions and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1377,
+    "ingredients": [
+      "eggs",
+      "corn",
+      "yogurt",
+      "pasta",
+      "olive oil"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take eggs and corn, cook with yogurt. Add pasta and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1378,
+    "ingredients": [
+      "pasta",
+      "yogurt",
+      "broccoli",
+      "garlic",
+      "pepper"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take pasta and yogurt, cook with broccoli. Add garlic and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1379,
+    "ingredients": [
+      "flour",
+      "olive oil",
+      "milk",
+      "eggs",
+      "garlic"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take flour and olive oil, cook with milk. Add eggs and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1380,
+    "ingredients": [
+      "pasta",
+      "olive oil",
+      "cheese",
+      "eggs",
+      "flour"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take pasta and olive oil, cook with cheese. Add eggs and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1381,
+    "ingredients": [
+      "garlic",
+      "beans",
+      "tomatoes",
+      "salt",
+      "cinnamon"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take garlic and beans, cook with tomatoes. Add salt and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1382,
+    "ingredients": [
+      "corn",
+      "sugar",
+      "tomatoes",
+      "onions",
+      "pasta"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take corn and sugar, cook with tomatoes. Add onions and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1383,
+    "ingredients": [
+      "yogurt",
+      "celery",
+      "sugar",
+      "salt",
+      "pepper"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take yogurt and celery, cook with sugar. Add salt and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1384,
+    "ingredients": [
+      "corn",
+      "cinnamon",
+      "broccoli",
+      "onions",
+      "rice"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take corn and cinnamon, cook with broccoli. Add onions and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1385,
+    "ingredients": [
+      "butter",
+      "chicken",
+      "cheese",
+      "pasta",
+      "rice"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take butter and chicken, cook with cheese. Add pasta and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1386,
+    "ingredients": [
+      "beans",
+      "sugar",
+      "tomatoes",
+      "garlic",
+      "onions"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take beans and sugar, cook with tomatoes. Add garlic and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1387,
+    "ingredients": [
+      "baking powder",
+      "sugar",
+      "tomatoes",
+      "lemon",
+      "eggs"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take baking powder and sugar, cook with tomatoes. Add lemon and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1388,
+    "ingredients": [
+      "olive oil",
+      "pepper",
+      "rice",
+      "celery",
+      "baking powder"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take olive oil and pepper, cook with rice. Add celery and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1389,
+    "ingredients": [
+      "milk",
+      "onions",
+      "yogurt",
+      "salt",
+      "eggs"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take milk and onions, cook with yogurt. Add salt and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1390,
+    "ingredients": [
+      "cinnamon",
+      "spinach",
+      "flour",
+      "salt",
+      "olive oil"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take cinnamon and spinach, cook with flour. Add salt and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1391,
+    "ingredients": [
+      "tomatoes",
+      "milk",
+      "beef",
+      "chicken",
+      "vanilla extract"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take tomatoes and milk, cook with beef. Add chicken and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1392,
+    "ingredients": [
+      "cheese",
+      "lemon",
+      "onions",
+      "baking powder",
+      "broccoli"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take cheese and lemon, cook with onions. Add baking powder and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1393,
+    "ingredients": [
+      "flour",
+      "butter",
+      "cheese",
+      "olive oil",
+      "baking powder"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take flour and butter, cook with cheese. Add olive oil and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1394,
+    "ingredients": [
+      "butter",
+      "flour",
+      "spinach",
+      "sugar",
+      "pasta"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take butter and flour, cook with spinach. Add sugar and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1395,
+    "ingredients": [
+      "sugar",
+      "onions",
+      "milk",
+      "cinnamon",
+      "eggs"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take sugar and onions, cook with milk. Add cinnamon and eggs. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1396,
+    "ingredients": [
+      "rice",
+      "lemon",
+      "cheese",
+      "pasta",
+      "beef"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take rice and lemon, cook with cheese. Add pasta and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1397,
+    "ingredients": [
+      "lemon",
+      "cheese",
+      "spinach",
+      "rice",
+      "corn"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take lemon and cheese, cook with spinach. Add rice and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1398,
+    "ingredients": [
+      "tomatoes",
+      "sugar",
+      "milk",
+      "salt",
+      "cinnamon"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take tomatoes and sugar, cook with milk. Add salt and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1399,
+    "ingredients": [
+      "flour",
+      "olive oil",
+      "onions",
+      "tomatoes",
+      "corn"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take flour and olive oil, cook with onions. Add tomatoes and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1400,
+    "ingredients": [
+      "chicken",
+      "cheese",
+      "vanilla extract",
+      "garlic",
+      "milk"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take chicken and cheese, cook with vanilla extract. Add garlic and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1401,
+    "ingredients": [
+      "milk",
+      "onions",
+      "chicken",
+      "corn",
+      "flour"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take milk and onions, cook with chicken. Add corn and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1402,
+    "ingredients": [
+      "broccoli",
+      "beef",
+      "spinach",
+      "milk",
+      "pepper"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take broccoli and beef, cook with spinach. Add milk and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1403,
+    "ingredients": [
+      "baking powder",
+      "butter",
+      "pepper",
+      "vanilla extract",
+      "garlic"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take baking powder and butter, cook with pepper. Add vanilla extract and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1404,
+    "ingredients": [
+      "garlic",
+      "spinach",
+      "beans",
+      "olive oil",
+      "pasta"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take garlic and spinach, cook with beans. Add olive oil and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1405,
+    "ingredients": [
+      "celery",
+      "broccoli",
+      "sugar",
+      "chicken",
+      "beans"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take celery and broccoli, cook with sugar. Add chicken and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1406,
+    "ingredients": [
+      "pepper",
+      "spinach",
+      "salt",
+      "flour",
+      "vanilla extract"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take pepper and spinach, cook with salt. Add flour and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1407,
+    "ingredients": [
+      "pepper",
+      "olive oil",
+      "tomatoes",
+      "cinnamon",
+      "garlic"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take pepper and olive oil, cook with tomatoes. Add cinnamon and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1408,
+    "ingredients": [
+      "beans",
+      "baking powder",
+      "rice",
+      "milk",
+      "salt"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take beans and baking powder, cook with rice. Add milk and salt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1409,
+    "ingredients": [
+      "beans",
+      "pepper",
+      "olive oil",
+      "onions",
+      "milk"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take beans and pepper, cook with olive oil. Add onions and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1410,
+    "ingredients": [
+      "cheese",
+      "yogurt",
+      "pasta",
+      "chicken",
+      "flour"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take cheese and yogurt, cook with pasta. Add chicken and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1411,
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "chicken",
+      "lemon",
+      "flour"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take pasta and garlic, cook with chicken. Add lemon and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1412,
+    "ingredients": [
+      "salt",
+      "milk",
+      "broccoli",
+      "celery",
+      "tomatoes"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take salt and milk, cook with broccoli. Add celery and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1413,
+    "ingredients": [
+      "garlic",
+      "eggs",
+      "cinnamon",
+      "vanilla extract",
+      "flour"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take garlic and eggs, cook with cinnamon. Add vanilla extract and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1414,
+    "ingredients": [
+      "spinach",
+      "tomatoes",
+      "celery",
+      "garlic",
+      "olive oil"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take spinach and tomatoes, cook with celery. Add garlic and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1415,
+    "ingredients": [
+      "broccoli",
+      "chicken",
+      "onions",
+      "tomatoes",
+      "spinach"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take broccoli and chicken, cook with onions. Add tomatoes and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1416,
+    "ingredients": [
+      "vanilla extract",
+      "yogurt",
+      "baking powder",
+      "celery",
+      "milk"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take vanilla extract and yogurt, cook with baking powder. Add celery and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1417,
+    "ingredients": [
+      "yogurt",
+      "broccoli",
+      "baking powder",
+      "milk",
+      "pasta"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take yogurt and broccoli, cook with baking powder. Add milk and pasta. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1418,
+    "ingredients": [
+      "butter",
+      "garlic",
+      "flour",
+      "tomatoes",
+      "broccoli"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take butter and garlic, cook with flour. Add tomatoes and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1419,
+    "ingredients": [
+      "chicken",
+      "pepper",
+      "flour",
+      "sugar",
+      "tomatoes"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take chicken and pepper, cook with flour. Add sugar and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1420,
+    "ingredients": [
+      "corn",
+      "lemon",
+      "salt",
+      "broccoli",
+      "garlic"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take corn and lemon, cook with salt. Add broccoli and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1421,
+    "ingredients": [
+      "chicken",
+      "tomatoes",
+      "eggs",
+      "olive oil",
+      "onions"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take chicken and tomatoes, cook with eggs. Add olive oil and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1422,
+    "ingredients": [
+      "olive oil",
+      "eggs",
+      "corn",
+      "sugar",
+      "butter"
+    ],
+    "title": "Test Style Olive oil Delight",
+    "instructions": "Take olive oil and eggs, cook with corn. Add sugar and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1423,
+    "ingredients": [
+      "cinnamon",
+      "broccoli",
+      "pepper",
+      "vanilla extract",
+      "garlic"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take cinnamon and broccoli, cook with pepper. Add vanilla extract and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1424,
+    "ingredients": [
+      "sugar",
+      "beef",
+      "celery",
+      "eggs",
+      "olive oil"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take sugar and beef, cook with celery. Add eggs and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1425,
+    "ingredients": [
+      "lemon",
+      "onions",
+      "cinnamon",
+      "spinach",
+      "sugar"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take lemon and onions, cook with cinnamon. Add spinach and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1426,
+    "ingredients": [
+      "spinach",
+      "butter",
+      "garlic",
+      "milk",
+      "onions"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take spinach and butter, cook with garlic. Add milk and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1427,
+    "ingredients": [
+      "broccoli",
+      "eggs",
+      "celery",
+      "tomatoes",
+      "onions"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take broccoli and eggs, cook with celery. Add tomatoes and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1428,
+    "ingredients": [
+      "spinach",
+      "milk",
+      "broccoli",
+      "sugar",
+      "pepper"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take spinach and milk, cook with broccoli. Add sugar and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1429,
+    "ingredients": [
+      "rice",
+      "sugar",
+      "broccoli",
+      "garlic",
+      "milk"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take rice and sugar, cook with broccoli. Add garlic and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1430,
+    "ingredients": [
+      "rice",
+      "onions",
+      "corn",
+      "beans",
+      "pepper"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take rice and onions, cook with corn. Add beans and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1431,
+    "ingredients": [
+      "sugar",
+      "baking powder",
+      "vanilla extract",
+      "yogurt",
+      "milk"
+    ],
+    "title": "Test Style Milk Delight",
+    "instructions": "Take sugar and baking powder, cook with vanilla extract. Add yogurt and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1432,
+    "ingredients": [
+      "beans",
+      "baking powder",
+      "salt",
+      "garlic",
+      "rice"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take beans and baking powder, cook with salt. Add garlic and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1433,
+    "ingredients": [
+      "chicken",
+      "pepper",
+      "vanilla extract",
+      "sugar",
+      "lemon"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take chicken and pepper, cook with vanilla extract. Add sugar and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1434,
+    "ingredients": [
+      "milk",
+      "salt",
+      "sugar",
+      "onions",
+      "cinnamon"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take milk and salt, cook with sugar. Add onions and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1435,
+    "ingredients": [
+      "yogurt",
+      "pasta",
+      "tomatoes",
+      "rice",
+      "vanilla extract"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take yogurt and pasta, cook with tomatoes. Add rice and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1436,
+    "ingredients": [
+      "pasta",
+      "beef",
+      "rice",
+      "corn",
+      "cheese"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take pasta and beef, cook with rice. Add corn and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1437,
+    "ingredients": [
+      "eggs",
+      "pepper",
+      "sugar",
+      "vanilla extract",
+      "cheese"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take eggs and pepper, cook with sugar. Add vanilla extract and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1438,
+    "ingredients": [
+      "yogurt",
+      "eggs",
+      "lemon",
+      "chicken",
+      "celery"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take yogurt and eggs, cook with lemon. Add chicken and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1439,
+    "ingredients": [
+      "tomatoes",
+      "yogurt",
+      "baking powder",
+      "garlic",
+      "cinnamon"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take tomatoes and yogurt, cook with baking powder. Add garlic and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1440,
+    "ingredients": [
+      "garlic",
+      "spinach",
+      "celery",
+      "beef",
+      "corn"
+    ],
+    "title": "Test Style Corn Delight",
+    "instructions": "Take garlic and spinach, cook with celery. Add beef and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1441,
+    "ingredients": [
+      "milk",
+      "cheese",
+      "eggs",
+      "sugar",
+      "vanilla extract"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take milk and cheese, cook with eggs. Add sugar and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1442,
+    "ingredients": [
+      "spinach",
+      "sugar",
+      "baking powder",
+      "chicken",
+      "butter"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take spinach and sugar, cook with baking powder. Add chicken and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1443,
+    "ingredients": [
+      "cinnamon",
+      "baking powder",
+      "celery",
+      "salt",
+      "garlic"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take cinnamon and baking powder, cook with celery. Add salt and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1444,
+    "ingredients": [
+      "tomatoes",
+      "butter",
+      "yogurt",
+      "cinnamon",
+      "milk"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take tomatoes and butter, cook with yogurt. Add cinnamon and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1445,
+    "ingredients": [
+      "yogurt",
+      "onions",
+      "lemon",
+      "milk",
+      "spinach"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take yogurt and onions, cook with lemon. Add milk and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1446,
+    "ingredients": [
+      "corn",
+      "sugar",
+      "beans",
+      "eggs",
+      "beef"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take corn and sugar, cook with beans. Add eggs and beef. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1447,
+    "ingredients": [
+      "lemon",
+      "baking powder",
+      "cinnamon",
+      "celery",
+      "spinach"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take lemon and baking powder, cook with cinnamon. Add celery and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1448,
+    "ingredients": [
+      "pepper",
+      "onions",
+      "chicken",
+      "spinach",
+      "milk"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take pepper and onions, cook with chicken. Add spinach and milk. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1449,
+    "ingredients": [
+      "sugar",
+      "cinnamon",
+      "broccoli",
+      "flour",
+      "vanilla extract"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take sugar and cinnamon, cook with broccoli. Add flour and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1450,
+    "ingredients": [
+      "spinach",
+      "cinnamon",
+      "beans",
+      "olive oil",
+      "corn"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take spinach and cinnamon, cook with beans. Add olive oil and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1451,
+    "ingredients": [
+      "baking powder",
+      "rice",
+      "spinach",
+      "chicken",
+      "onions"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take baking powder and rice, cook with spinach. Add chicken and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1452,
+    "ingredients": [
+      "sugar",
+      "celery",
+      "tomatoes",
+      "pepper",
+      "cheese"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take sugar and celery, cook with tomatoes. Add pepper and cheese. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1453,
+    "ingredients": [
+      "sugar",
+      "eggs",
+      "rice",
+      "baking powder",
+      "chicken"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take sugar and eggs, cook with rice. Add baking powder and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1454,
+    "ingredients": [
+      "lemon",
+      "butter",
+      "beef",
+      "pasta",
+      "vanilla extract"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take lemon and butter, cook with beef. Add pasta and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1455,
+    "ingredients": [
+      "flour",
+      "onions",
+      "butter",
+      "garlic",
+      "vanilla extract"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take flour and onions, cook with butter. Add garlic and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1456,
+    "ingredients": [
+      "cheese",
+      "tomatoes",
+      "garlic",
+      "baking powder",
+      "broccoli"
+    ],
+    "title": "Test Style Tomatoes Delight",
+    "instructions": "Take cheese and tomatoes, cook with garlic. Add baking powder and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1457,
+    "ingredients": [
+      "pasta",
+      "flour",
+      "sugar",
+      "yogurt",
+      "broccoli"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take pasta and flour, cook with sugar. Add yogurt and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1458,
+    "ingredients": [
+      "spinach",
+      "corn",
+      "salt",
+      "butter",
+      "celery"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take spinach and corn, cook with salt. Add butter and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1459,
+    "ingredients": [
+      "pasta",
+      "cinnamon",
+      "rice",
+      "pepper",
+      "corn"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take pasta and cinnamon, cook with rice. Add pepper and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1460,
+    "ingredients": [
+      "cinnamon",
+      "salt",
+      "pasta",
+      "eggs",
+      "baking powder"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take cinnamon and salt, cook with pasta. Add eggs and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1461,
+    "ingredients": [
+      "rice",
+      "chicken",
+      "eggs",
+      "beans",
+      "baking powder"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take rice and chicken, cook with eggs. Add beans and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1462,
+    "ingredients": [
+      "butter",
+      "eggs",
+      "broccoli",
+      "sugar",
+      "flour"
+    ],
+    "title": "Test Style Eggs Delight",
+    "instructions": "Take butter and eggs, cook with broccoli. Add sugar and flour. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1463,
+    "ingredients": [
+      "flour",
+      "vanilla extract",
+      "pasta",
+      "eggs",
+      "beans"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take flour and vanilla extract, cook with pasta. Add eggs and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1464,
+    "ingredients": [
+      "cheese",
+      "lemon",
+      "yogurt",
+      "broccoli",
+      "onions"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take cheese and lemon, cook with yogurt. Add broccoli and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1465,
+    "ingredients": [
+      "beans",
+      "olive oil",
+      "beef",
+      "sugar",
+      "broccoli"
+    ],
+    "title": "Test Style Sugar Delight",
+    "instructions": "Take beans and olive oil, cook with beef. Add sugar and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1466,
+    "ingredients": [
+      "garlic",
+      "yogurt",
+      "eggs",
+      "sugar",
+      "butter"
+    ],
+    "title": "Test Style Garlic Delight",
+    "instructions": "Take garlic and yogurt, cook with eggs. Add sugar and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1467,
+    "ingredients": [
+      "celery",
+      "flour",
+      "onions",
+      "milk",
+      "yogurt"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take celery and flour, cook with onions. Add milk and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1468,
+    "ingredients": [
+      "beef",
+      "vanilla extract",
+      "milk",
+      "sugar",
+      "chicken"
+    ],
+    "title": "Test Style Vanilla extract Delight",
+    "instructions": "Take beef and vanilla extract, cook with milk. Add sugar and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1469,
+    "ingredients": [
+      "vanilla extract",
+      "spinach",
+      "pasta",
+      "sugar",
+      "garlic"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take vanilla extract and spinach, cook with pasta. Add sugar and garlic. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1470,
+    "ingredients": [
+      "cinnamon",
+      "beef",
+      "eggs",
+      "broccoli",
+      "rice"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take cinnamon and beef, cook with eggs. Add broccoli and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1471,
+    "ingredients": [
+      "beans",
+      "spinach",
+      "sugar",
+      "butter",
+      "yogurt"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take beans and spinach, cook with sugar. Add butter and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1472,
+    "ingredients": [
+      "butter",
+      "cinnamon",
+      "broccoli",
+      "corn",
+      "spinach"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take butter and cinnamon, cook with broccoli. Add corn and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1473,
+    "ingredients": [
+      "cheese",
+      "spinach",
+      "lemon",
+      "pasta",
+      "pepper"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take cheese and spinach, cook with lemon. Add pasta and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1474,
+    "ingredients": [
+      "vanilla extract",
+      "pasta",
+      "baking powder",
+      "beef",
+      "sugar"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take vanilla extract and pasta, cook with baking powder. Add beef and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1475,
+    "ingredients": [
+      "pasta",
+      "beef",
+      "butter",
+      "rice",
+      "celery"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take pasta and beef, cook with butter. Add rice and celery. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1476,
+    "ingredients": [
+      "sugar",
+      "cheese",
+      "pepper",
+      "celery",
+      "spinach"
+    ],
+    "title": "Test Style Spinach Delight",
+    "instructions": "Take sugar and cheese, cook with pepper. Add celery and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1477,
+    "ingredients": [
+      "spinach",
+      "yogurt",
+      "flour",
+      "beans",
+      "chicken"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take spinach and yogurt, cook with flour. Add beans and chicken. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1478,
+    "ingredients": [
+      "corn",
+      "butter",
+      "pasta",
+      "cheese",
+      "spinach"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take corn and butter, cook with pasta. Add cheese and spinach. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1479,
+    "ingredients": [
+      "pepper",
+      "cinnamon",
+      "beans",
+      "butter",
+      "yogurt"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take pepper and cinnamon, cook with beans. Add butter and yogurt. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1480,
+    "ingredients": [
+      "spinach",
+      "yogurt",
+      "baking powder",
+      "flour",
+      "vanilla extract"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take spinach and yogurt, cook with baking powder. Add flour and vanilla extract. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1481,
+    "ingredients": [
+      "flour",
+      "vanilla extract",
+      "garlic",
+      "lemon",
+      "broccoli"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take flour and vanilla extract, cook with garlic. Add lemon and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1482,
+    "ingredients": [
+      "pasta",
+      "pepper",
+      "spinach",
+      "garlic",
+      "sugar"
+    ],
+    "title": "Test Style Pasta Delight",
+    "instructions": "Take pasta and pepper, cook with spinach. Add garlic and sugar. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1483,
+    "ingredients": [
+      "onions",
+      "chicken",
+      "pepper",
+      "broccoli",
+      "cinnamon"
+    ],
+    "title": "Test Style Onions Delight",
+    "instructions": "Take onions and chicken, cook with pepper. Add broccoli and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1484,
+    "ingredients": [
+      "baking powder",
+      "garlic",
+      "cheese",
+      "eggs",
+      "corn"
+    ],
+    "title": "Test Style Baking powder Delight",
+    "instructions": "Take baking powder and garlic, cook with cheese. Add eggs and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1485,
+    "ingredients": [
+      "chicken",
+      "butter",
+      "pepper",
+      "broccoli",
+      "tomatoes"
+    ],
+    "title": "Test Style Butter Delight",
+    "instructions": "Take chicken and butter, cook with pepper. Add broccoli and tomatoes. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1486,
+    "ingredients": [
+      "lemon",
+      "celery",
+      "cheese",
+      "onions",
+      "beans"
+    ],
+    "title": "Test Style Beans Delight",
+    "instructions": "Take lemon and celery, cook with cheese. Add onions and beans. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1487,
+    "ingredients": [
+      "yogurt",
+      "cheese",
+      "salt",
+      "sugar",
+      "butter"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take yogurt and cheese, cook with salt. Add sugar and butter. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1488,
+    "ingredients": [
+      "chicken",
+      "pasta",
+      "cheese",
+      "olive oil",
+      "corn"
+    ],
+    "title": "Test Style Cheese Delight",
+    "instructions": "Take chicken and pasta, cook with cheese. Add olive oil and corn. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1489,
+    "ingredients": [
+      "spinach",
+      "beans",
+      "salt",
+      "flour",
+      "lemon"
+    ],
+    "title": "Test Style Flour Delight",
+    "instructions": "Take spinach and beans, cook with salt. Add flour and lemon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1490,
+    "ingredients": [
+      "chicken",
+      "onions",
+      "baking powder",
+      "beef",
+      "broccoli"
+    ],
+    "title": "Test Style Chicken Delight",
+    "instructions": "Take chicken and onions, cook with baking powder. Add beef and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1491,
+    "ingredients": [
+      "yogurt",
+      "cinnamon",
+      "butter",
+      "pasta",
+      "broccoli"
+    ],
+    "title": "Test Style Yogurt Delight",
+    "instructions": "Take yogurt and cinnamon, cook with butter. Add pasta and broccoli. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1492,
+    "ingredients": [
+      "cinnamon",
+      "yogurt",
+      "chicken",
+      "pasta",
+      "olive oil"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take cinnamon and yogurt, cook with chicken. Add pasta and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1493,
+    "ingredients": [
+      "salt",
+      "butter",
+      "corn",
+      "rice",
+      "baking powder"
+    ],
+    "title": "Test Style Salt Delight",
+    "instructions": "Take salt and butter, cook with corn. Add rice and baking powder. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1494,
+    "ingredients": [
+      "lemon",
+      "salt",
+      "tomatoes",
+      "broccoli",
+      "olive oil"
+    ],
+    "title": "Test Style Broccoli Delight",
+    "instructions": "Take lemon and salt, cook with tomatoes. Add broccoli and olive oil. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1495,
+    "ingredients": [
+      "salt",
+      "beef",
+      "sugar",
+      "celery",
+      "onions"
+    ],
+    "title": "Test Style Celery Delight",
+    "instructions": "Take salt and beef, cook with sugar. Add celery and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1496,
+    "ingredients": [
+      "beef",
+      "spinach",
+      "eggs",
+      "pasta",
+      "rice"
+    ],
+    "title": "Test Style Beef Delight",
+    "instructions": "Take beef and spinach, cook with eggs. Add pasta and rice. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1497,
+    "ingredients": [
+      "lemon",
+      "salt",
+      "garlic",
+      "beans",
+      "onions"
+    ],
+    "title": "Test Style Lemon Delight",
+    "instructions": "Take lemon and salt, cook with garlic. Add beans and onions. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1498,
+    "ingredients": [
+      "milk",
+      "celery",
+      "olive oil",
+      "chicken",
+      "cinnamon"
+    ],
+    "title": "Test Style Cinnamon Delight",
+    "instructions": "Take milk and celery, cook with olive oil. Add chicken and cinnamon. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1499,
+    "ingredients": [
+      "beans",
+      "sugar",
+      "yogurt",
+      "corn",
+      "pepper"
+    ],
+    "title": "Test Style Pepper Delight",
+    "instructions": "Take beans and sugar, cook with yogurt. Add corn and pepper. Simmer until ready. Serve hot."
+  },
+  {
+    "id": 1500,
+    "ingredients": [
+      "olive oil",
+      "cinnamon",
+      "eggs",
+      "baking powder",
+      "rice"
+    ],
+    "title": "Test Style Rice Delight",
+    "instructions": "Take olive oil and cinnamon, cook with eggs. Add baking powder and rice. Simmer until ready. Serve hot."
+  }
+]

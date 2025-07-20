@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="container mt-4">
+  <h2 class="text-center mb-4">🛒 Shopping List</h2>
+
+  <form method="POST" action="{{ url_for('shopping') }}" class="input-group mb-3">
+    <input type="text" class="form-control" name="new_item" placeholder="Enter item" required>
+    <button class="btn btn-success" type="submit">Add</button>
+  </form>
+
+  {% if shopping_list %}
+    <ul class="list-group">
+      {% for item in shopping_list %}
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+          {{ item }}
+          <a href="{{ url_for('delete_shopping', item=item) }}" class="btn btn-danger btn-sm">Delete</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p class="text-muted text-center">No items in your shopping list.</p>
+  {% endif %}
+</div>
+{% endblock %}

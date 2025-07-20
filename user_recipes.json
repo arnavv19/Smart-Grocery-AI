@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Tomato soup",
+    "ingredients": [
+      "butter or olive oil",
+      "onion",
+      "finely chopped",
+      "garlic",
+      "finely chopped or crushed",
+      "ripe tomatoes",
+      "chopped (fresh or canned)",
+      "water or vegetable broth",
+      "salt",
+      "sugar",
+      "black pepper",
+      "heavy cream (optional)",
+      "fresh herbs (optional)",
+      "croutons (optional)",
+      "bay leaf (optional)",
+      "carrot (for sweetness and color",
+      "optional)",
+      "beetroot (for deep red color",
+      "optional)",
+      "cornstarch or arrowroot powder (for thickening",
+      "optional)",
+      "cashew cream (vegan alternative to dairy cream",
+      "optional)."
+    ],
+    "instructions": "boil",
+    "cuisine": "chinese"
+  },
+  {
+    "id": 2,
+    "title": "Aloo bhujiya",
+    "ingredients": [
+      "2 medium-sized potatoes - 1 cup besan (gram flour) - 1 teaspoon red chili powder - 1/2 teaspoon turmeric powder - 1/2 teaspoon ajwain (carom seeds) - salt to taste - water (as needed) - oil for frying"
+    ],
+    "instructions": "vh",
+    "cuisine": "greek"
+  }
+]

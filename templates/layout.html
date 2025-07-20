@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SmartGrocery 🍽️</title>
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+
+  <style>
+    body {
+      background: linear-gradient(to right top, #f3f4f6, #e0f7fa, #f1f8e9);
+      font-family: 'Segoe UI', sans-serif;
+      padding-bottom: 80px;
+    }
+
+    .navbar {
+      background: #0b8457;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .navbar-brand {
+      font-weight: bold;
+      font-size: 1.6rem;
+    }
+
+    .nav-link {
+      color: #fff !important;
+      font-weight: 500;
+      transition: 0.3s;
+    }
+
+    .nav-link:hover {
+      color: #ffd700 !important;
+      text-decoration: underline;
+    }
+
+    .card {
+      backdrop-filter: blur(14px);
+      background: rgba(255, 255, 255, 0.85);
+      border: none;
+      border-radius: 20px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+    }
+
+    .card-header {
+      font-weight: 600;
+      font-size: 1.05rem;
+      border: none;
+      background: transparent;
+    }
+
+    .btn-outline-primary {
+      border-radius: 12px;
+      padding: 6px 14px;
+      font-weight: 500;
+    }
+
+    .badge {
+      font-size: 0.9rem;
+      padding: 5px 12px;
+      border-radius: 20px;
+    }
+
+    footer {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      background: #0b8457;
+      color: white;
+      text-align: center;
+      padding: 12px;
+      font-weight: 500;
+      border-top-left-radius: 12px;
+      border-top-right-radius: 12px;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg navbar-dark mb-4">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/">🥦 SmartGrocery</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item"><a class="nav-link" href="/">🏠 Dashboard</a></li>
+          <li class="nav-item"><a class="nav-link" href="/ingredients">📝 Recipes</a></li>
+          <li class="nav-item"><a class="nav-link" href="/shopping-list">🛒 Shopping List</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('manage_inventory') }}">🧺 Inventory</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+    {% block content %}{% endblock %}
+  </div>
+
+  <!-- Chatbot -->
+  <script id="omnidimension-web-widget" async src="https://backend.omnidim.io/web_widget.js?secret_key=a5aa84f0d83b509dc993c3f3b894bb0f"></script>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

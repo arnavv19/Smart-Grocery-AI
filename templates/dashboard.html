@@ -1,0 +1,110 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="container py-4">
+  <h2 class="text-center mb-5 display-6 text-dark">Good food starts with smart choices.🌿🍲</h2>
+
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <!-- Inventory -->
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-header bg-primary text-white rounded-top-4 fw-bold">🧺 Inventory</div>
+        <div class="card-body">
+          {% if inventory %}
+            <ul class="list-group list-group-flush">
+              {% for item in inventory %}
+              <li class="list-group-item">{{ item }}</li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <p class="text-muted">No items in inventory.</p>
+          {% endif %}
+          <a href="{{ url_for('manage_inventory') }}" class="btn btn-sm btn-outline-primary mt-3 rounded-pill">Manage Inventory</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Nutrition Summary -->
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-header bg-success text-white rounded-top-4 fw-bold">🍎 Nutrition Summary</div>
+        <div class="card-body">
+          {% if nutrition_info %}
+            <ul class="list-group list-group-flush">
+              {% for nutrient, value in nutrition_info.items() %}
+              <li class="list-group-item d-flex justify-content-between">
+                <span>{{ nutrient|capitalize }}</span>
+                <span class="badge bg-success rounded-pill">{{ value|round(2) }}</span>
+              </li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <p class="text-muted">No nutrition info available.</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    <!-- Shopping List -->
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-header bg-warning text-dark rounded-top-4 fw-bold">🛒 Shopping List</div>
+        <div class="card-body">
+          {% if shopping_list %}
+            <ul class="list-group list-group-flush">
+              {% for item in shopping_list %}
+              <li class="list-group-item">{{ item }}</li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <p class="text-muted">Your shopping list is empty.</p>
+          {% endif %}
+          <a href="{{ url_for('shopping') }}" class="btn btn-sm btn-outline-primary mt-3 rounded-pill">Manage Shopping List</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Recipe Suggestions -->
+  <div class="mt-5">
+    <h4 class="mb-4 fw-bold">🍽️ AI-Recommended Recipes</h4>
+    {% if recipes %}
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+      {% for recipe in recipes %}
+      <div class="col">
+        <div class="card h-100 shadow-sm border-0 rounded-4">
+          <div class="card-body">
+            <h5 class="card-title text-primary fw-bold">{{ recipe.title }}</h5>
+            <p class="card-text mb-2">
+              <span class="badge bg-info text-dark">Cuisine: {{ recipe.cuisine }}</span>
+            </p>
+            <p class="card-text text-muted small">
+              <i class="bi bi-check-circle-fill text-success"></i>
+              Ingredients matched: <strong>{{ recipe.match_count }}</strong>
+            </p>
+            {% if recipe.ingredients %}
+            <div class="mt-2">
+              <span class="text-secondary small">Key Ingredients:</span>
+              <ul class="small ps-3 mb-0">
+                {% for ing in recipe.ingredients[:5] %}
+                  <li>{{ ing }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+            {% endif %}
+            {% if recipe.instructions %}
+            <div class="mt-3">
+              <span class="text-secondary small">Instructions:</span>
+              <p class="small mb-0">{{ recipe.instructions }}</p>
+            </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="text-muted">No recipe suggestions available based on your inventory.</p>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}
